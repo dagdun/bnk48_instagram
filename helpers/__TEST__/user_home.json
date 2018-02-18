@@ -1,0 +1,3040 @@
+{
+  "user": {
+    "biography": "อร BNK48\nオーン。",
+    "blocked_by_viewer": false,
+    "country_block": false,
+    "external_url": "http://www.facebook.com/bnk48official.orn",
+    "external_url_linkshimmed": "http://l.instagram.com/?u=http%3A%2F%2Fwww.facebook.com%2Fbnk48official.orn&e=ATPoL2OYKjXJDM-umj1K69P16QMUWQy83g_KNcYtBKqk0l9QpJo7O_i7GuWPWBJUXfWFMhz9",
+    "followed_by": {
+      "count": 111606
+    },
+    "followed_by_viewer": false,
+    "follows": {
+      "count": 134
+    },
+    "follows_viewer": false,
+    "full_name": "Orn BNK48",
+    "has_blocked_viewer": false,
+    "has_requested_viewer": false,
+    "id": "4636727204",
+    "is_private": false,
+    "is_verified": false,
+    "profile_pic_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4c2ada1e9f155281110d30f905735fe3/5B0CAA1E/t51.2885-19/s150x150/22860705_124075364925870_3050077643799003136_n.jpg",
+    "profile_pic_url_hd": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ac5c649caf89a61967fa89c09a0d1bdf/5B0546EE/t51.2885-19/s320x320/22860705_124075364925870_3050077643799003136_n.jpg",
+    "requested_by_viewer": false,
+    "username": "orn.bnk48official",
+    "connected_fb_page": null,
+    "media": {
+      "nodes": [
+        {
+          "__typename": "GraphImage",
+          "id": "1716177635477768628",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 750,
+            "width": 750
+          },
+          "edge_media_preview_like": {
+            "count": 4965
+          },
+          "gating_info": null,
+          "media_preview": "ACoqyL65a5ZSy7MD3yc85ye3p2FUwK0L+/8AthU7duwHvknPXn09BVAVpYRctbNrn5U4OM5PT2H4090khUh+DyPyrR0ttoKDAYlSM+mPX69qZq772KjA2Bc49TnP1xkUr6lW0McndTaXG3g0ma7ou0UZlzUJbeRlNuu0AYPGM+nHsOp71oafYRSw+ZIOTnnJ6Z4rLvUgRwIDlccnOefyHbkjseK3ra4JRQyFQcAHHBxz26cDp39K4jRFOBzbuWXnBwOOGHQZ9MZBz16iomj+1TtGrBi/ftkc8e2asMrx72G7IcYC8qDkfXtjHBpIVy/mdCHHzHjk45x/ID8ah6DMxrKVZvs5xvPPXgDGck+w61c/siX1H5VpbkN5I5IHCqPyBPb6Vo70/vD9K0u7CsjjL6FIJSkZ3LgHqDg9xkcHFdDaS7rde+MZ5xj3/wA965Ouh0c/IfrWfmCL7FchtsmflGQMBcH7/HXH0PripZIYnKozF953EdMhRgdMcZOT6mmysQ3BpkP/AB8N7D+tNgtTOWON7qXIyqnAAJHT/wDVTjbzZ4kAHb5c1mRuwaQgkEhuc+9VvMb1P5mqs+j7fkGh/9k=",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1fd0d7b264d68c63e47891ad07c2bcf2/5B0CEAB7/t51.2885-15/s640x640/sh0.08/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/88aef08f262a1fe30505e51d4d50ff94/5B1785B3/t51.2885-15/s150x150/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/edd1bd3e72282a3154a43aed44cc02cf/5B02768C/t51.2885-15/s240x240/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2f46248039b161df9643f2fc0882f75d/5B21CCF4/t51.2885-15/s320x320/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c5c5ae3f0bbc192037c97ea97acf13de/5B09E472/t51.2885-15/s480x480/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1fd0d7b264d68c63e47891ad07c2bcf2/5B0CEAB7/t51.2885-15/s640x640/sh0.08/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfRFnd-H0m0",
+          "date": 1518804338,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e01e02eda41801aac27e6fad55b74e58/5B12F9D6/t51.2885-15/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+          "caption": "เปลี่ยน Look อาจมีคนทัก เปลี่ยนรักอาจมีคนทุกข์ .. มาตามสัญญาแล้วนะคะ55555 \nโดนโหวตรูปนี้จากตู้ปลา เลยต้องลง ... อย่าพึ่งอันฟอลหนูไปเลย 😭 #ที่ลงดึกๆคิดว่าคนจะดูน้อยที่สุด",
+          "comments": {
+            "count": 373
+          },
+          "likes": {
+            "count": 4965
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1715902151166646326",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1349,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 26869
+          },
+          "gating_info": null,
+          "media_preview": "ACEqqrEmAdo/KnrGHbZGm9gMnAHA9z6+gp0YGwMeBtBP5VLpzsoklK5Vm4I6nA6YHt39aAIUWN13BRj6CoLpFWMkAA5HapbQlgwPBJ3Aezc/z4pL4Yi+pH9aAMvY3ofyNFL5j+p/M0UwLkrfuI89DgH8qWG6ltsiMgBuSCAR9famEB7VT/dP58kYqupD/e7cdaQF15GRUljGdoIb6Z7+3p6UXcwlhVhxlsYPsKlsnRWbbkgABVbHA9T6+mKgvsBVxxliT9e5oAz6KbmigDRtCDFtPIyeDUF1OsjDaMbQBxxnH86W0+7+JqjQBfsyS5PYL/Wlvj938f6U2y6N+H9abedV+hoAqZopKKAP/9k=",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d0d5416796b58d627aed87eb4dae7bd7/5B086B31/t51.2885-15/s150x150/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e2e51c74b70319d28dfa872f780f1858/5B05B0A7/t51.2885-15/s240x240/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2243277094019b2f275fbf8c3179c534/5B00104F/t51.2885-15/s320x320/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c3ababc99f1ad421fe8fcd0341e9f10b/5B22AE66/t51.2885-15/s480x480/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfQG-pNndg2",
+          "date": 1518771498,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fd291b9d5d7d79bff651ea8c973b6ffc/5B1B0713/t51.2885-15/e35/27880702_585818531752578_1523415227624849408_n.jpg",
+          "caption": "หน้าม้ากระจุยกระจาย 5555 ขอมาเป็นสาว Bazaar 1 วัน😉ติดตามพวกเรา ได้ใน นิตยสาร Harper’s Bazaar Thailand เดือน มีนาคมนี้ค่ะ ... 🏙🎉 #OrnBNK48 #BNK48 #Bazaarthailand",
+          "comments": {
+            "count": 410
+          },
+          "likes": {
+            "count": 26869
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1715389578780524313",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1350,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 35533
+          },
+          "gating_info": null,
+          "media_preview": "ACEq3qguXZIyU5c8L9T/AIdanrOv2YtFGn3mfd/3yP65pgNtJJfNaOQll25BI78f49K0qyY5GilLHnjaB6DOTz65rUVw43DoaSdy5RcdejFooopkDqqsMzBm52LlQPU8Hn6Yq1WbPN5T4+8O/bmk3YqMXJ2RXkJV2buCD/n86vWkpcMDyQQfz/8A1VlMchiauaecs30FQnqdc4+5rukv0NOikorQ4hxOOT0FYMj72LepzWxcHEbf57is2RQT0qJHTR0uyoXBU1d00E7nwQDgDPGai2KWxgflWxjAwOgpRXUurLS3cKKSitDjP//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb71b46d78b86491c5e7d63a8d5e1a66/5B1DC0DB/t51.2885-15/s640x640/sh0.08/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6d8306efc372bedf44a207429182c1ae/5B266398/t51.2885-15/s150x150/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b55c03fada2a8317949a9351af727c6f/5B0AAD0E/t51.2885-15/s240x240/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/00543051f3e6bf9cc39b68544d38fcad/5B1CBDE6/t51.2885-15/s320x320/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/82aee2e37047d5809483ec187ad7694f/5B0C2ECF/t51.2885-15/s480x480/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb71b46d78b86491c5e7d63a8d5e1a66/5B1DC0DB/t51.2885-15/s640x640/sh0.08/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfOSbu-nr8Z",
+          "date": 1518710394,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/66a9715ab6a21f9a4c75be2d0d901cc9/5B00DCA3/t51.2885-15/e35/27580777_335394820280505_9140371604881014784_n.jpg",
+          "caption": "ขอขอบพระคุณทางผู้บริหาร A.P. Honda racing thailand และ BNK48 มากๆเลยนะคะ ที่ให้พวกเรา 6 คนเป็น แบรนด์แอมบาสซาเดอร์ 🙏🏻 เราจะทำอย่างเต็มที่ค่ะ ! ทีมพี่ๆนักแข่งก็สู้ๆ ไปด้วยกันนะคะ 🤟🏻 สำหรับเพลง River อรก็จะทำอย่างเต็มที่เช่นเดียวกันค่ะ ยอมรับว่ากดดันเพิ่มมากขึ้น แต่ก็รู้สึกน่าท้าทายมากกว่าค่ะ 😉 พร้อมแล้วที่จะลุยข้ามแม่น้ำ5555555 ขอบคุณที่ให้โอกาสหนูนะคะ  ขอบคุณจริงๆค่ะ 🙏🏻🙇🏻‍♀️ #BNK48xAPHonda #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 633
+          },
+          "likes": {
+            "count": 35533
+          }
+        },
+        {
+          "__typename": "GraphVideo",
+          "id": "1714507865699287396",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 607,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 13227
+          },
+          "gating_info": null,
+          "media_preview": "ACoXvowYZU5+lP3VnMWgiYoQT7e5q2uBgE8+n1HQ/TtTFYkEgJI9Kdz6cVUQKcsWKjOCT/Meg9M1a3c9eOeMdf8A9VFx2FIOM1FmopLgqzAkYOAo9PWofNHpTQmh4wRzUtFFMkQAegp3FFFAyN1Vuoqr5C0UUCP/2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d4d0b2655f37c2f437f0839c5e713f56/5A8A02E0/t51.2885-15/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7485b9bbc0943c7e37cc31374633c812/5A89AE2C/t51.2885-15/s150x150/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a5615528a5e747bb007eed73f06797db/5A8970FA/t51.2885-15/s240x240/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e17cb3a52dc63593b074645d234bd815/5A89F3D2/t51.2885-15/s320x320/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/acaa22674f891e42a36dc5a54aae5261/5A89ACFB/t51.2885-15/s480x480/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d4d0b2655f37c2f437f0839c5e713f56/5A8A02E0/t51.2885-15/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": true,
+          "code": "BfLJ9HrnoFk",
+          "date": 1518605313,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb2c4cf9b8f7a96814b517ac350b3215/5A89BADB/t51.2885-15/s1080x1080/e15/fr/28150892_815487581988441_3471030008410013696_n.jpg",
+          "video_views": 26668,
+          "caption": "มาแล้วววว ~ มาดูมุมน่ารักๆ ของพวกเรา BNK48 ที่ไม่มีที่ไหนมาก่อน จะซี้ปึ้กรักกันขนาดไหนดูกันน้าาาา\nปล. ซื้อสินค้าใน 7-Eleven ก็ได้พ้อยท์ เร็วๆนี้ อดใจรอนะ!\n#BNK48 #TruePoint #BNK48xTRUE #TrueYou #TrueID #OrnBNK48",
+          "comments": {
+            "count": 178
+          },
+          "likes": {
+            "count": 13227
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1714412659352234960",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1350,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 17844
+          },
+          "gating_info": null,
+          "media_preview": "ACEquxjipgKggbcPpxVgGtbmNhwFSAU0Gng0rhYdiiq322L1/Q0UDMrc+0hc/L83Hbpye+DRFdO0nPcAf5/GnKdsjDsVI/lTZ41jcGMgHA4J9e/+e1RcotNOQRzxyfbgVDJfkAbSDu61TlSTgYwck8H6ZpqBsEPx3OcZx1yPyoCxJuoqvuHv+tFMLE4lKjdnk9ahkkd239C3+c/4U5+g+tOk+9+FSUhszORyTnqOc9ufz/8ArU+QopIAIyOe/UdvTrTgBsY99rVG4AfA6cfyFAyrke9FTYFFMR//2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e5cce96a668f98b1b02d22b6be3acb36/5B16C9E3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e6073bb1fe4734fc4d1bed0f3ea6762b/5B00F50D/t51.2885-15/s150x150/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f48989d5c6fbcadae2e58eac7c0bc26b/5B095966/t51.2885-15/s240x240/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/df0adbbb482526686729f04f75adefa5/5B22D5AE/t51.2885-15/s320x320/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/560efe079dc7c1bc4e68c2d82bd23626/5B1F8344/t51.2885-15/s480x480/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e5cce96a668f98b1b02d22b6be3acb36/5B16C9E3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfK0Tr3H2vQ",
+          "date": 1518593936,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1063d0caa684a338624da3ba4a8f68f0/5B1A9631/t51.2885-15/e35/27879081_160926004558944_2676515531720228864_n.jpg",
+          "caption": "#bangkokcity 🏙 #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 137
+          },
+          "likes": {
+            "count": 17844
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1713954850718246956",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 560,
+            "width": 640
+          },
+          "edge_media_preview_like": {
+            "count": 30915
+          },
+          "gating_info": null,
+          "media_preview": "ACokbHMCafIocg9TWfuYcn8ulSLL61Ay2Ixn/wCvWhbD5s+/9DWSswyBg49a1rTB5H+eDTQEfWlxSMQgyfy71IACM+tUIy2iWTnPIpyWmSB1yaGVSwKgqM889vYdqtJKkRygP4n+WKkYxlWNWQgBd3ynH48f1q7bAAcemf0NQyXW9SoUD3J/pS2p4cn0P8qEMCoZwR/n2qyAw71TifLCr3mqOP8ACmhGR0pKKKkYVctvuSfQ/wAhRRTQEdv94fUVeMS+lFFID//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cadf9f0b39e4a27ec45be91f248dfc36/5B23889C/t51.2885-15/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/25f5ded21001e1be24df5d6927ffec8d/5B199B90/t51.2885-15/s150x150/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b973306eb0fdb6f858319db7e0c20d81/5B01DE06/t51.2885-15/s240x240/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7f4c2a8d4fb137732af45e12f7d2e1ba/5B13EAEE/t51.2885-15/s320x320/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2beabbfd28c1f01f6fab2f7f584377df/5B0146C7/t51.2885-15/s480x480/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cadf9f0b39e4a27ec45be91f248dfc36/5B23889C/t51.2885-15/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfJMNsWHmgs",
+          "date": 1518539361,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d0562fe808f29952f2c5036f9f89037e/5B143BD3/t51.2885-15/e35/27877696_1677241389037877_3737542598961659904_n.jpg",
+          "caption": "ขอแค่ได้สบตา ... 👀 #OrnBNK48 #BNK48 #thestandard",
+          "comments": {
+            "count": 374
+          },
+          "likes": {
+            "count": 30915
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1713165345711049804",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1350,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 32796
+          },
+          "gating_info": null,
+          "media_preview": "ACEqkBycDnH+eamDhBlyFHuev0qq8vkru6sc7R6+pPsP1NZjMzncxyT3P+f0pDN9LmNuFYE/l/PFVr9ShV+QCcHHb0P49KycGr9tPuHkyn5W4DHqvp+H8j7UA0Qbj/eH6/4UU/8Asy59vzooIsJMfMYt26D6dv8AH6moMc4HWrzW7Gi0t9ku5+cA4A9fXp2oLKkcRZRtGCVZjnndg849DUdasGImRWGNu7Bz2b+ftWcbeQdBuHsf/wBVFgH+fL/eNFQbJP7rfkaKBnTBFP8AnFQtZRMc8gn0Yj+tc/ZSuDgMcemTiuhhOevNMkkFug56n3NO8laZIcdOKpsxJwSTQBd8pPUfnRVKilcdj//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/abc8b28296694671e1fce78eaea54822/5B20AF6A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d280979e22da817b40ef85f47f590fb9/5B0E1BCE/t51.2885-15/s150x150/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/82b5b9cffbaa783e03bb337b30ae29f6/5B09873E/t51.2885-15/s240x240/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4e38346c1f630d8f2773c6f3c6fcacab/5B17CE3F/t51.2885-15/s320x320/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/89c22eee25a61e70245f6d3677f090e3/5B10B312/t51.2885-15/s480x480/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/abc8b28296694671e1fce78eaea54822/5B20AF6A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfGYs4gncxM",
+          "date": 1518445245,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a12872890962f9617f0340a4bc0f0bf4/5B07AE69/t51.2885-15/e35/27576124_2467562420134846_5742281793403355136_n.jpg",
+          "caption": "จากวันนั้นจนถึงวันนี้ และ จากจุดนั้นจนถึงจุดนี้ทำให้รู้ว่าการที่อยู่ในจุดนั้นและมาถึงในจุดๆนี้เป็นสิ่งที่ทำให้จุดนี้นึกย้อนไปถึงจุดนั้น  เอาเป็นสรุป ณ จุดๆนี้ ว่า ขอบคุณ 1 ปีที่ผ่านมานะคะ Happy 1st year anniversary 🎊 เดินด้วยกันไปได้ไกล ❤️ #BNK48 #OrnBNK48",
+          "comments": {
+            "count": 574
+          },
+          "likes": {
+            "count": 32796
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1712476600645185070",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 36060
+          },
+          "gating_info": null,
+          "media_preview": "ACoqrxnrzSq4b681HGhYZ71agiCtmpKM59wO3rn8OtQOCpweSatTvhiFwRz2/kaglYEjHYYoEMQmM/WpfMaoadmgDUUgE56YzS+bnG2owwNR7XAJTgZHI6jJ4NIoawjKZUEMDgnnHf8ADmqLDB644rqJcPCVPRRx9R/jXMsM/gO9CBk+3MYNM8ompowWXb0H86uLgAD0piKMR5qxEZGlVFP3zgjtgcn8qqVd03/j5H0P8qQG1NHshYexx+VchnIFdzJ9xvof5Vwo6UxExbb69etSC5f1H5VBJ0qOgo//2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e482c477f53faad621073535297e59e4/5B1B8D96/t51.2885-15/s640x640/sh0.08/e35/27879959_361403711002078_596568552232714240_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fefcb2bf2f9146536a00b42478e8e40d/5B07F0B7/t51.2885-15/s150x150/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/55aafeef2a85f7f12e581375852f2b09/5B07BD02/t51.2885-15/s240x240/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/be43935265248da5cbe49f55f77216df/5B085B4A/t51.2885-15/s320x320/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8daf05765af7ba3b0133f6f6cd3d5046/5B17F9FE/t51.2885-15/s480x480/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e482c477f53faad621073535297e59e4/5B1B8D96/t51.2885-15/s640x640/sh0.08/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfD8GUrn-4u",
+          "date": 1518363140,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ef99da7b5b4877e0ee22594dd13205b6/5B188803/t51.2885-15/e35/27879959_361403711002078_596568552232714240_n.jpg",
+          "caption": "Keep calm and don’t worry 😉 #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 637
+          },
+          "likes": {
+            "count": 36060
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1712254176209026222",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 809,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 20993
+          },
+          "gating_info": null,
+          "media_preview": "ACof5yp4raWb/Vqze4HH59K0oAkIAjVZHPVmG7B9FH8z37cVq+W0se2bajD7hHGPYr6UmyuXuYcVvDHkT5Z/7oOAPYnqT9OB61JJbxzIDbB9xbBTqBxnO7/E1qCzVFBZQ/8AtFiR/TFThxjao8thyAPun29j6VPMxcr76GX9ilSP5uC+Aepwo5IyM8kge3GM1mGAud2Tzz+f41tG7ww28Z/DPvn+f4e9ZslzNuO0Erk4OO2eKtSct0DiokdnIRKACRnuDjt0/wD1Vrm6A4HJPOFx+Fc8jFGDDqPWtGGQom8HaXJ/T/PSk1fYqMktzUjkJJVsgNwynoRUUjeUGDHAAJ4H5Ee/tVBLsY3Mc7fY8nt+H5VUllMzFuQpxxnvSsHNf1Gli5y3b7o/z/k9Kn2N70kSd6t5p3KUe5//2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a61fcde2554f8568acf9db6c10f7ea7a/5B151AB0/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4bce23dff988da21a3addaf6f45b6710/5B1F4D24/t51.2885-15/s150x150/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3f6b0a76d6f6dfee2b9b2ab23d93590c/5B218AB2/t51.2885-15/s240x240/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/90aead9f850f60f1e7a962519bede59b/5B25C6B4/t51.2885-15/s320x320/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0fa6b7fb38a2dba5d7c41e080b13944d/5B125C07/t51.2885-15/s480x480/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a61fcde2554f8568acf9db6c10f7ea7a/5B151AB0/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfDJhnyHjyu",
+          "date": 1518336625,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa14130ec1e3b99ff8b396becea3608d/5B20F19F/t51.2885-15/e35/27573358_1590509657681124_5521435300892508160_n.jpg",
+          "caption": "🤟🏻 #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 318
+          },
+          "likes": {
+            "count": 20993
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1711521211006973964",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 33543
+          },
+          "gating_info": null,
+          "media_preview": "ACoq36KiByM0pNMCOVz0HFV1PAqnePL5hKkAR44PfjP455qVZQEBB7Zqo9iZLqTlgOtM8we/6f41WMm7k07Hsf8AP409eliTQaVRwCPpmmmQqDnsM/5/GkZFGT8v9c1WkJIO3pjH+c1JZXvV3OWbIJXHse+PzzTLFlkGxgeBkEelE3QYzngfpSWUe1/c9vp1+lFuqC+lmaAgjByNx/Ef4UhWMev5j/Cp9jFvmO0Y6VTa2BJPmdT7/wCNK7CxdZlPPXHP+Sf6VXaXzQSoA3DjPWhyQRz3P8xUeBupDK0kg3DPbj6cVYszncxGM8D6d/zqNx81aNp/q/xNU2KxDO4A69qp+ZVu4GW5qMUgP//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f16ea3aeaccd23ce345692b3f5aa1784/5B17CCCC/t51.2885-15/s640x640/sh0.08/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5e8b15003e03bb1e6a0a962709051eae/5B1F68B1/t51.2885-15/s150x150/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7fd4b777870b848878e30bf457ec35e5/5B152D25/t51.2885-15/s240x240/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/eef4fa665ad897b1ca96026f0a314bcc/5B0B4F81/t51.2885-15/s320x320/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b8e2ef8f845cd6faaa99a1bf326020b3/5B054FD9/t51.2885-15/s480x480/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f16ea3aeaccd23ce345692b3f5aa1784/5B17CCCC/t51.2885-15/s640x640/sh0.08/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BfAi3kvnfgM",
+          "date": 1518249249,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4b1f595a1377eb3c77016008b17557f0/5B1255E6/t51.2885-15/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+          "caption": "ฝัน ฉันฝันถึงเธอ หลับตาลงทุกทียังเจอ ... #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 369
+          },
+          "likes": {
+            "count": 33543
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1710844093180915736",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1129,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 34500
+          },
+          "gating_info": null,
+          "media_preview": "ACkq3WfA/SjfVXec8DP1/wA800yEcnj8QaYEVxcDzAhB+vbPXH5UxpscCqd2+XEg65B/THT/ADmtEKhwxUAnp1p3toxNX2IN2Tg4/Hp+NReY39xf0/xqC4vMMUC7QD15ycfj3qt9oHo1ZvyBHQR5HMgCk+h/pn+VRyOucHJJ7npj0/yKha7wCB1/lUMfm3B+Xp3PQVQxj5JwF5Ax+NaJYRIMfLgenPSoXRg+MZPBz0/z0qxJlzk073C1jGu4ZH/fAFgRz7fUdfyrP/GulLFfp6U3zV9D+VIAgsi3Mn5d/wDP+cVcLCMbUxx+lSScJVU0AVRNmfy8Z43E56H/ACat1TUASse5x/KrYoAaRUeKmpKYH//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8d89b12add02487c63f82427658fa119/5B0F9CF8/t51.2885-15/s640x640/sh0.08/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6e9610b80949a0545d1a4c4e7a0d28b1/5B06F984/t51.2885-15/s150x150/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/adad147feb27d1539b1a2224f9795528/5B0C700F/t51.2885-15/s240x240/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5ffebe8ac1ddf5ec4bfe053af73e9890/5B09FA9B/t51.2885-15/s320x320/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cac5b3a374fcdd4df9e45ad89b16f631/5B08E8CE/t51.2885-15/s480x480/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8d89b12add02487c63f82427658fa119/5B0F9CF8/t51.2885-15/s640x640/sh0.08/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Be-I6NoH7AY",
+          "date": 1518168530,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bdec851c09a04cc8c3f9efa4e9a119ec/5B16FA6C/t51.2885-15/e35/27576788_380817289049228_41146692933779456_n.jpg",
+          "caption": "Do everything in love ❤️ #OrnBNK48 #BNK48 #Ornista",
+          "comments": {
+            "count": 388
+          },
+          "likes": {
+            "count": 34500
+          }
+        },
+        {
+          "__typename": "GraphSidecar",
+          "id": "1710154992169489875",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1350,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 35222
+          },
+          "gating_info": null,
+          "media_preview": null,
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/79717b2a30c324c77319e6cc581e29dd/5B058061/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0f0c05e55dfad3a7f117837579b32304/5B106C8F/t51.2885-15/s150x150/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5900f26533240f44a68cde15b66b384c/5B1EA2E4/t51.2885-15/s240x240/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/630b021061f0f4d4521941cc7e25fc66/5B1DCD2C/t51.2885-15/s320x320/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f11657a10ca5a80eee092d107c8034d0/5B25AEC6/t51.2885-15/s480x480/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/79717b2a30c324c77319e6cc581e29dd/5B058061/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Be7sOeTH5XT",
+          "date": 1518086383,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1d02ebc748106360244c0c0c0b903da7/5B1462B3/t51.2885-15/e35/26871922_164258664224272_8049653785204621312_n.jpg",
+          "caption": "บทสัมภาษณ์ออกแล้ววว ~ ใครยังไม่ได้ไปอ่านไปอ่านกันได้ที่ >>> https://thestandard.co/orn-bnk48/ #Thestandard #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 545
+          },
+          "likes": {
+            "count": 35222
+          }
+        },
+        {
+          "__typename": "GraphVideo",
+          "id": "1709573872692329294",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 937,
+            "width": 750
+          },
+          "edge_media_preview_like": {
+            "count": 24747
+          },
+          "gating_info": null,
+          "media_preview": "ACEqyGi2jd26ZphFb8dtCU8sLvUjJY5/PPTjqKxFTeMjnt+X+PWvQpTveMvkZzXKM8vtnJPQDk/TipTbMFJwQV65IB4GThepwCCfQVdWZI41Cj94cE4HQocL/wB9KTk1C9yXJ2qFGCB3I4xkHOBlcA5J6Z61o5PsIz6KXYfb86K0uI17EFlUNu2ZAOPu89M85HXB4xU9taLG/HzIc4/D+v8AMVLb2zW5KE/I/II4II/h/EU8yiLKsAo6rk9B6H/P5150XfVEyfcoXMSjOBx7/wCFZTyf5/wHT+dW7q+VvlTn37Vlk561o6llZasKcX10JvM96KgoqPbS8jblNy71XfgRduc+lY8kjSHLHJNMpKw20WwJdeoUUUtIoSiiigD/2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/39226d0593f08cba02ef7f4cef7c4c66/5A899A65/t51.2885-15/s640x640/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/af37420c461814b1ca2801d4810e34e9/5A8989C6/t51.2885-15/s150x150/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/302ba6227151c6357d26c6f51e230ae8/5A89960D/t51.2885-15/s240x240/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/31b6531e60d8cb50b2a97d328db50307/5A897BD9/t51.2885-15/s320x320/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/29532cbba17dac6577961955f3300c11/5A89718C/t51.2885-15/s480x480/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/39226d0593f08cba02ef7f4cef7c4c66/5A899A65/t51.2885-15/s640x640/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": true,
+          "code": "Be5oGEnHXtO",
+          "date": 1518017194,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/604b4c9306a341c5d1060d6647499fee/5A8A02C9/t51.2885-15/e15/26872691_105508953604430_8725261508189093888_n.jpg",
+          "video_views": 55678,
+          "caption": "มาหาแล้ว ~ ขอบคุณนะค้าาา 🙏🏻🤟🏻❤️🎉 รักน้าาา ~ ❤️ #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 442
+          },
+          "likes": {
+            "count": 24747
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1708903331727919153",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 40962
+          },
+          "gating_info": null,
+          "media_preview": "ACoq3aKKWmBQuNQjgbYQWYdcdvxPf2q3G6yKHXkMMist7VZCQzYYs3bsTz9fY1PpmREV6hXIH0qbjsX6SnUlUIRyQMjr71ntfEyeSgyw6k/rgVoN0NYP+qldicEng+x5qWWvM2JIy3171nRv9lm2J8yt1T39V9/bvSNeOqE5B7DFZO4sST1/z+tIdjq0mRztGc4zggj+YFS1URHfY0hIZBzjuff+vvVqqIAjIx61zt7+7l25DYAJ/oPy610Vcvef69/qaTGiNnBXaBgk5zmr+nQpt3/efJ69j2/Tmsw1r6T95/oP50imbIGBiiiirMz/2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10ee7148a495a4dcabc04476a98913e3/5B07C247/t51.2885-15/s640x640/sh0.08/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7cc1db14e9e376d8214ddd9019ebf085/5B029643/t51.2885-15/s150x150/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f90423d996dc5b72ff32f56a0e73653e/5B10117C/t51.2885-15/s240x240/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bc579524bf0188768f9f85e218ebb422/5B1EB604/t51.2885-15/s320x320/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ae1b7193348d84b67f6d92765d0ee1fc/5B05BD82/t51.2885-15/s480x480/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10ee7148a495a4dcabc04476a98913e3/5B07C247/t51.2885-15/s640x640/sh0.08/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Be3PoarH8gx",
+          "date": 1517937173,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a5a43d67623df38eae0fdcc6f283ea8e/5B1CF326/t51.2885-15/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+          "caption": "อรว่า อรก็อยู่ตรงนี้... อยู่ที่นี่นะ ... 😶  #goodnightworld #OrnBNK48 #BNK48 #รูปมันเยอะเลยต้องลงมันให้หมด",
+          "comments": {
+            "count": 525
+          },
+          "likes": {
+            "count": 40962
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1708600437153684866",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 34109
+          },
+          "gating_info": null,
+          "media_preview": "ACoqzHTPzKeKcPrmlgtpJuEGdvXnj86njtZMn5TlflP+e/1pAQTp5DYByDzk015Pl+taLQ/aYhkHcoweOhAwR+OMfWskxuvUMMc8g8fnQAgcgVOJm9D+tN8v5s/iQetWePUfkf8AGgk3Y0EShF6/1qRUIOCeOuaZAC53HoOlTyN2pJdWaHO3dy2WRf3ZLfQ4B4P1PU+ta69AjdTxzyCPUZ659KytRtXaTegLAgdPUVeaJ3QAn54wPxHUH+h9waY2JcxLJgP94HgjqR6fSmhAONg/75qeGYS9eHHX/PpUuaLC0LRIQVRKuc/NkHp7VZm61Ahz+lDBEcUAVwckkDPXgn6fyqeT5cP2Hyt9D3/A/pmkT7x+n9afJ9xvpQBk3UTQtuU49PpTftzf3f1rXADRc8/L3+lYJHNMR//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b6372bc75d9e2d12b9b6039d0571aa2e/5B0DF840/t51.2885-15/s640x640/sh0.08/e35/26869381_215494045676263_984468364657164288_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/169429ae0e3bd7d05ff20555ef50997f/5B12A861/t51.2885-15/s150x150/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/96b0fc4b2861bcb2a54027b8201a7aff/5B24B5D4/t51.2885-15/s240x240/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f5d66431d2dc228ceb39093dcb709695/5B19189C/t51.2885-15/s320x320/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ebe3f768d35bed7f3a0f2bc157e9ff05/5B108C28/t51.2885-15/s480x480/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b6372bc75d9e2d12b9b6039d0571aa2e/5B0DF840/t51.2885-15/s640x640/sh0.08/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Be2KwuHn12C",
+          "date": 1517901065,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/da3e650b6943cef51d3b078a6da06e79/5B1058D5/t51.2885-15/e35/26869381_215494045676263_984468364657164288_n.jpg",
+          "caption": "อากาศอ่ะหน้าฮ้อน แต่เธออ่ะน่าฮักกก ~ 🤟🏻❤️ #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 525
+          },
+          "likes": {
+            "count": 34109
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1707869902433272383",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 809,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 28873
+          },
+          "gating_info": null,
+          "media_preview": "ACof2N5pRJUO4Uu4VQicc96pSQiPLjk9Bjr/APrPvU4xQSucGlYDHGnvJktwev8Ak1ZWwwACtR28rrcFSzFTkHJz9PpzxWvuNIexmeec4APGfxqYScc1nTTDbjBX8vpxzVcXQA7+meP8DUa9ANczbSB9aaZPyPesuW4JwB1wP17dqcGYNkgEA8j1Hp1p6iLaq28serf/AKx+oBq6JgayJpWkYt2PQf40wTD+8f8AvkVQ2f/Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/15504a5d831f79b2319a9ccca01ec6ed/5B16E45A/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dae27118057a09b2f5847fe674a2dffd/5B020E19/t51.2885-15/s150x150/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e3524e4d6363d1b65f056eb7650ef5b1/5B26BB8F/t51.2885-15/s240x240/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/60648fe6be159bbf03c493a471598d76/5B16F867/t51.2885-15/s320x320/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4214e59a679dedaa51bbb122e286dcaf/5B04D14E/t51.2885-15/s480x480/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/15504a5d831f79b2319a9ccca01ec6ed/5B16E45A/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BezkqCpHcI_",
+          "date": 1517813979,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9f53867bac2ed99eebb57a615d9c9f18/5B1F4DFD/t51.2885-15/e35/26863531_240315566508474_3706418225097998336_n.jpg",
+          "caption": "ถ้าฉันอยากขออีกครั้ง อ้อนกันบ่อยๆได้ไหม และถ้าไม่มากเกินไป อ้อนกันทุกคืนได้ไหมเธอ ~ 🌚 🤟🏻 #Amaete #OrnBNK48 #BNK48 #Ornista #เชียงใหม่อากาศดี๊ดี",
+          "comments": {
+            "count": 453
+          },
+          "likes": {
+            "count": 28873
+          }
+        },
+        {
+          "__typename": "GraphSidecar",
+          "id": "1707487655880335522",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1079,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 32160
+          },
+          "gating_info": null,
+          "media_preview": null,
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7233cc93233d78606a8b838aafdeb1ac/5B035A07/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/669bdf4ec1f1f1b0024c2dff0bcfcd5e/5B039344/t51.2885-15/s150x150/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/eed551fb4a835dd74a76cd01b4ece539/5B24CCD2/t51.2885-15/s240x240/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f355abbdaee35c02eadf187da393cbdd/5B21E23A/t51.2885-15/s320x320/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2d6dd10d3e1644657fff9b941f17c63a/5B035A13/t51.2885-15/s480x480/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7233cc93233d78606a8b838aafdeb1ac/5B035A07/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BeyNvnzHKCi",
+          "date": 1517768412,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9b68e4fe9b2c7a8c8f92deffc2340f51/5B1C6ECF/t51.2885-15/e35/27576241_181011959327810_3852747374325661696_n.jpg",
+          "caption": "Love u all ❤️🙏🏻 #bnk48roadshowinchiangmai #OrnBNK48 #BNK48 #goodnitesleeptight #safetrip #Ornista",
+          "comments": {
+            "count": 442
+          },
+          "likes": {
+            "count": 32160
+          }
+        },
+        {
+          "__typename": "GraphSidecar",
+          "id": "1706703435729989337",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 27985
+          },
+          "gating_info": null,
+          "media_preview": null,
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10c667ec8219b1e332642471a6892f31/5B083E1C/t51.2885-15/s640x640/sh0.08/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/558f4e2a41627eef9472cd16ce07adc4/5B131918/t51.2885-15/s150x150/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a92f14678f4312f81e9c53b7b26d011f/5B1EEB27/t51.2885-15/s240x240/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3376be2bb171a93f6f9d1a0099f2967c/5B08345F/t51.2885-15/s320x320/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c94391f3856a65dc82a3da5fba8ddecb/5B170CD9/t51.2885-15/s480x480/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10c667ec8219b1e332642471a6892f31/5B083E1C/t51.2885-15/s640x640/sh0.08/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Bevbbt3n-7Z",
+          "date": 1517674925,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3a492f3e94bb086a9cecdfaf071cc426/5B0EE87D/t51.2885-15/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+          "caption": "ดอกไม้ของเค้าาา ~ ห้ามแย่งไปนะ ! 🌚 ขอบคุณทุกๆคนที่มาอวยพรวันเกิดให้นะคะ ปีนี้เป็นวันเกิดที่ดีที่สุดในชีวิตของอรเลยค่ะ อรจะเติบโตขึ้นเป็นเด็กดีในวัย 21 ปี อย่างสมบูรณ์และแข็งแรง55555 ช่วยเป็นกำลังใจให้ด้วยนะคะ ปล.ได้อ่าน comment ของทุกคนแล้วค่ะแต่ตอบไม่ไหว ฮือออ ~ ขอบคุณที่มา HBD กันนะคะ ❤️🙏🏻#OrnBNK48 #BNK48 #ฝันดีเจ้าาา #HBDOrn21",
+          "comments": {
+            "count": 660
+          },
+          "likes": {
+            "count": 27985
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1706248083943155767",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 213,
+            "width": 320
+          },
+          "edge_media_preview_like": {
+            "count": 25958
+          },
+          "gating_info": null,
+          "media_preview": "ACobRHEfzE8Y6ZzWhFIQvB4PQf0+tYKsV+Y1oJc+bjnGO3p/nk0hF15m5B+Ujse/uMf5zUCOW+bOcdv88ZqOaRMqxO9gCD2A9wPfsP8ACoBIFG85OfT/AA9TTaa1C66GvC3HByKs5rBiuT2OM9BV/wC0Y4LL+P8A+umBgpgnnqKuW8uGKqCc9xVCEZfBraiUKMAYpDKcsITOQTn154+v1p0ciiJhjDDp6jPFTXIyv51mIec+1O9x36CwFUbDdPUjOPwPFXvtydgf0rK9aKRJ/9k=",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e89ddbed1dc127c64ee7016a264b47ff/5B12C742/t51.2885-15/s150x150/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Betz5eeH2g3",
+          "date": 1517620643,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c4ec603d772eb3d23c3768bc51420263/5B066751/t51.2885-15/e35/26869424_348546588957548_3929299011688726528_n.jpg",
+          "caption": "Officially 21st 🎂 #HBDOrn21 #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 1467
+          },
+          "likes": {
+            "count": 25958
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1705689513941810935",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 642,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 25852
+          },
+          "gating_info": null,
+          "media_preview": "ACoYkt9OO797hlwQACeuev5UX1osMQaPIIIycnnP6VPKzW0KLnaRhWbGcdSahupGe0VmOSzdenr6UWEZAM394+3NWbRXeZVkYlT1GTUcQ3ZHfGRxnOP/AK3NS2bYnXPv/KgDUuLVIomdc7lGQSc9DzXPec394/ma6iZdyOMjlW6fSuPzS3GzrLlAVxkqM9hmq+qfLAi+4/QUUVQPYj0mMENJjLDgfTHP596o2Z/0hT7n+RoooF2OmKdfcf4iuN2qOufyoopDP//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a873119968974c22b0c61a3b302ec206/5B03BE5D/t51.2885-15/s640x640/sh0.08/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2311bebbcc96bb7987d1b237d3acb56e/5B1D341E/t51.2885-15/s150x150/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7732b20ed5ace27965b73e56a2b62d19/5B0F6C88/t51.2885-15/s240x240/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10b66038a7a5c0a44d7fadc624188a14/5B1CC360/t51.2885-15/s320x320/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7323db5e7b178bac658ed72fcfebcad7/5B0CBA49/t51.2885-15/s480x480/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a873119968974c22b0c61a3b302ec206/5B03BE5D/t51.2885-15/s640x640/sh0.08/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Ber05NnnD73",
+          "date": 1517554056,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2de1d58cecf7eace266fb4b4bbaebc5d/5B0FA165/t51.2885-15/e35/27576428_357089238098248_2561151215501049856_n.jpg",
+          "caption": "กิ๋นเข้าแล้วก๋า ? ลำก่อเจ้า ?\nเตรียมหันหน้าขึ้นเหนือแล้วค่า55555  แล้วเจอกันนะคะเชียงใหม่ 🤟🏻 #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 372
+          },
+          "likes": {
+            "count": 25852
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1704280590068329691",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 809,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 23209
+          },
+          "gating_info": null,
+          "media_preview": "ACof0nhBOQcd6VY88Enilz/PH604nb+RpiJA2ML7U3zvlLY6Z/SsgzMLgc/wr+eP/r1dzkKAeGChv60XGCh5hkswz2HTkelZrWmCcZxmtdAFzjtmmbQadxFLzWPTrUbXBLYY1b8kD69Kga1Y+hHYf/XrOwWIGBCmQfeLYPp04/GpEk755Bx+X9KnEIwQRw2O/cdDSpbqnXkEUBYrPcMnWjzW7EY+oqf7MOR1HoT0+hqL7Inv+f8A9agLH//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ce0b597b487904b00ef569f03843e156/5B1714AA/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/290d54da5764a1f17f6aeebc0744389e/5B21D7D6/t51.2885-15/s150x150/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ad72c3594db088d631f82c966e2dbb7c/5B0B0F5D/t51.2885-15/s240x240/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0297da1b9481f782aed41509ba11c4c8/5B10A1C9/t51.2885-15/s320x320/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5575b2bd93d5e7764c8366a4c4e9c6ef/5B035A9C/t51.2885-15/s480x480/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ce0b597b487904b00ef569f03843e156/5B1714AA/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Bem0irAnazb",
+          "date": 1517386100,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0e313e0d9ffb3413f8d11ff53a98f5ea/5B1B3223/t51.2885-15/e35/26866154_318584758650244_120770528993607680_n.jpg",
+          "caption": "Amaete แล้วนะ ... 🌚 #รอฟังๆ #cantwait #Ornista #OrnBNK48 #BNK48",
+          "comments": {
+            "count": 247
+          },
+          "likes": {
+            "count": 23209
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1703093692423656810",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 490,
+            "width": 750
+          },
+          "edge_media_preview_like": {
+            "count": 26618
+          },
+          "gating_info": null,
+          "media_preview": "ACob0HfYhb0BNNM5ijDP94kjHTkZz6noM1C02GzgkDsvU+vWopL5d2NuQcgZ428c9j1/PtTEX1uQSRjAC7s/gCf5/pTYrlnKqRy2cnnAwcfn35qJkZkTPOcYxkcEfqMDnNNlnaNgFAO4HvwPf64/lQMtx3Ad2TupP44OD+tT5rLs5RKcbWG0sdx6Ek84Pbnt+FaOaBGOkm4jH3jnj8D09aYswzjjbnJJ6ggH+h7VoRqByAM/SgRJ/dH5CkMpiaRdmMkDjPbjuAfY0pyhODkbeR3zjH9f51oeUhxwPl6cdKcY1O7IHzdff60WC5Sin8tAWBYDgY9B3x/X86tiVSM5HNK0SMACAQBTfs8foKYH/9k=",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a3cd44a1ba3e0085596e59e870549c3d/5B14380C/t51.2885-15/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0e5fb9523c156fbfc8f884c979121fa6/5B12D300/t51.2885-15/s150x150/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e33a34df8b15fac94cace2d8aff85fd7/5B17F496/t51.2885-15/s240x240/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dd2a503bd67771a222124e0957a6535e/5B1EB67E/t51.2885-15/s320x320/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e23e6da9ab027f8eda08b00614fd255d/5B171F57/t51.2885-15/s480x480/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a3cd44a1ba3e0085596e59e870549c3d/5B14380C/t51.2885-15/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "BeimrCcHtVq",
+          "date": 1517244610,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cf0fc72c4552ae47654a295904d57eba/5B0066AE/t51.2885-15/e35/26866211_510969912622639_4312052259291660288_n.jpg",
+          "caption": "Charaline Always Charaline ... #Charaline #ชราไลน์ #BNK48 #Moveon",
+          "comments": {
+            "count": 393
+          },
+          "likes": {
+            "count": 26618
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1702307690012559568",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 945,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 31243
+          },
+          "gating_info": null,
+          "media_preview": "ACok16WkJAGaztRdwgQD757HpjsfWruI0FdX+6QfpTqzbEyIux8FP4T0P/1x/WrckvlsMnjvSuOxPSUAgjI6GlqhEb9Kyr1vOnSJTwp5P8/yFaEzlV+UZJ7e3fPpVAh32yRR4OcE8DI7/h6GoKQ6divAbK8DI7c4OAB1Hb0q3NAs4GSQwHXP6HH60yVPMVkXrtPXrx09vY0WobYpOTgYx269f6H6U3HsJstoNqgegA/Klpqgjqc5p1AhtOoooApuSr8HjPSn3Nw0X3cdM85/xoooGOjcsiserYz+NTUUUkN9D//Z",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa88358cc4a7ce7907adac9f902f6883/5B058D3E/t51.2885-15/s640x640/sh0.08/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/db541226a28b82177cad7d46bd8e3c71/5B25F742/t51.2885-15/s150x150/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/615660bad068716cef6f11517d361a66/5B2231C9/t51.2885-15/s240x240/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e1fed5d3e98e3c09554ff972bd1d932f/5B107E5D/t51.2885-15/s320x320/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/356a520a52562499c0cce09187acc4f7/5B041D08/t51.2885-15/s480x480/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa88358cc4a7ce7907adac9f902f6883/5B058D3E/t51.2885-15/s640x640/sh0.08/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Befz9MpnUjQ",
+          "date": 1517150912,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ca7f869b09c6401e2c3f77fedc15054c/5B022DDF/t51.2885-15/e35/26872022_296575194200684_6803357423840002048_n.jpg",
+          "caption": "If you wait until you’re ready \nYou’ll be waiting the rest of your life - หากคุณรอเวลาให้คุณพร้อม เพื่อเริ่มต้นทำอะไรสักอย่าง คุณต้องรอเวลานั้นไปตลอดชีวิต ... cr.Inbrief | สำหรับสองวันที่ผ่านมา ขอบคุณมากๆเลยนะคะที่ตามมาดูพวกเรา BNK48 รู้สึกดีใจและเป็นเกียรติกับชีวิตอรมากเลยค่ะ 🙏🏻ทั้งสองวันอรเต็มที่จริงๆ และค่อนข้างกดดันมากด้วย55555 เลยรู้สึกซึ้งเวลาคนมองมาที่เราแล้วยิ้มให้แบบให้กำลังใจทุกครั้ง ขอบคุณทุกๆคนนะคะที่ให้กำลังใจอร ❤️ อรจะเริ่มต้นแม้ว่ามันจะยังไม่ได้ดีหรือยังไม่ได้พร้อม ขอบคุณค่ะ 🙏🏻 ปล.ตอนที่เตะที่คาดผมบอกเลยคือเบลอมาก ไม่รู้เตะไปทางไหน แต่ตอนเต้นท่าถัดไปหางตาเห็นคุณจิรัฐกำลังเก็บให้ ... ก็ OMG และเต้นต่อไปค่ะ555555555 หนูกราบขออภัยมา ณ ที่นี้ด้วยค่ะ ขออภัยเป็นอย่างสูงค่ะ 🙇🏻‍♀️😭🙏🏻\nปล2. เข้าใจความรู้สึกของตำแหน่ง 0 แล้วค่ะ ... ❤️\nปล3. ขอบคุณสำหรับรูปค่ะ \n#OrnBNK48 #BNK48",
+          "comments": {
+            "count": 493
+          },
+          "likes": {
+            "count": 31243
+          }
+        },
+        {
+          "__typename": "GraphImage",
+          "id": "1701191248924103803",
+          "comments_disabled": false,
+          "dimensions": {
+            "height": 1080,
+            "width": 1080
+          },
+          "edge_media_preview_like": {
+            "count": 20887
+          },
+          "gating_info": null,
+          "media_preview": "ACoqkWpahWphQIjMfOe1OIUDGcE9FH82Pf6Uy5lEKFjyegHqaowX0j/KwVh64wR9D/jQMvPHJP8ALjCDgE8LUo0geo/I/wCNXSS3HUj+H+H8T/n6VGCPVh7DoPYc0CKSipgMUIAwyOhpjncdq9B1+vp+HU0DEe3jueJMgDO36nvVW2jEDtDgl+rEgYK9sfjitEIcEde/4dxStAXAIO04wT3x1wPfPeiwx8b+Y21c+WM/ifb2+tW9yjj0pkahFCjtUDHk/WgRRs7gOvPAAJ+gHvVJLsD+E/mKiTiM/T+tQrSY0jcjuUmAU7lBP3hxg+5960Au31/GsXJEBHbYf61o2hLQITydo5NNCZaJoptLTEf/2Q==",
+          "owner": {
+            "id": "4636727204"
+          },
+          "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/97f0db64b2fa63c480b50c24d87d6cd1/5B1E9B32/t51.2885-15/s640x640/sh0.08/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+          "thumbnail_resources": [
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1d48b3b83b036b714cb3f63441176297/5B03134F/t51.2885-15/s150x150/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "config_width": 150,
+              "config_height": 150
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e16b00a27f5cd28acaf12e5069ef5bdc/5B0C5CDB/t51.2885-15/s240x240/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "config_width": 240,
+              "config_height": 240
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7d95f5a94c37b68e807acbf8d9c912a4/5B25107F/t51.2885-15/s320x320/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "config_width": 320,
+              "config_height": 320
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/12dc0370180c04b4fd5db8970eb56f90/5B194727/t51.2885-15/s480x480/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "config_width": 480,
+              "config_height": 480
+            },
+            {
+              "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/97f0db64b2fa63c480b50c24d87d6cd1/5B1E9B32/t51.2885-15/s640x640/sh0.08/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "config_width": 640,
+              "config_height": 640
+            }
+          ],
+          "is_video": false,
+          "code": "Beb2G13H9R7",
+          "date": 1517017821,
+          "display_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e6c8af8a66772185ce0ef16fb20eebf0/5B006318/t51.2885-15/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+          "caption": "THE STANDARD เปิดบ้านต้อนรับ อร BNK48 หญิงสาวที่ทำให้เราได้เห็นจริงๆ ว่า 'ไอดอล' ก็มีมุมอ่อนไหวที่ไม่ต่างกับคนทั่วไป ติดตามบทสัมภาษณ์ที่ทำให้เธอต้องน้ำตาหล่นพร้อมกับความลับที่ไม่เคยเปิดเผยที่ไหนมาก่อนได้เร็วๆ นี้ ... รอติดตามกันได้นะคะ 🙏🏻🤟🏻😘\nวันนี้ใครว่างไปเจอกับพวกเรา BNK48 ได้ที่งาน Japan Expo ได้น้าาา ~ รอเจอทุกคนล่ะ 👀#TheStandardCo #BNK48 #OrnBNK48",
+          "comments": {
+            "count": 194
+          },
+          "likes": {
+            "count": 20887
+          }
+        }
+      ],
+      "count": 371,
+      "page_info": {
+        "has_next_page": true,
+        "end_cursor": "AQBT7cXjfnru5Bz-mcmxo5PWiQyA1CZbkeLcKJWJ1WmTKCS5QlLM8naciNEs_m2FtgwEec5BBgqV3w1o2EPaX8FAru4t8qkghaRqttKjVYr--Q"
+      }
+    },
+    "saved_media": {
+      "nodes": [],
+      "count": 0,
+      "page_info": {
+        "has_next_page": false,
+        "end_cursor": null
+      }
+    },
+    "media_collections": {
+      "count": 0,
+      "page_info": {
+        "has_next_page": false,
+        "end_cursor": null
+      },
+      "edges": []
+    }
+  },
+  "logging_page_id": "profilePage_4636727204",
+  "show_suggested_profiles": false,
+  "graphql": {
+    "user": {
+      "biography": "อร BNK48\nオーン。",
+      "blocked_by_viewer": false,
+      "country_block": false,
+      "external_url": "http://www.facebook.com/bnk48official.orn",
+      "external_url_linkshimmed": "http://l.instagram.com/?u=http%3A%2F%2Fwww.facebook.com%2Fbnk48official.orn&e=ATPoL2OYKjXJDM-umj1K69P16QMUWQy83g_KNcYtBKqk0l9QpJo7O_i7GuWPWBJUXfWFMhz9",
+      "edge_followed_by": {
+        "count": 111606
+      },
+      "followed_by_viewer": false,
+      "edge_follow": {
+        "count": 134
+      },
+      "follows_viewer": false,
+      "full_name": "Orn BNK48",
+      "has_blocked_viewer": false,
+      "has_requested_viewer": false,
+      "id": "4636727204",
+      "is_private": false,
+      "is_verified": false,
+      "profile_pic_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4c2ada1e9f155281110d30f905735fe3/5B0CAA1E/t51.2885-19/s150x150/22860705_124075364925870_3050077643799003136_n.jpg",
+      "profile_pic_url_hd": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ac5c649caf89a61967fa89c09a0d1bdf/5B0546EE/t51.2885-19/s320x320/22860705_124075364925870_3050077643799003136_n.jpg",
+      "requested_by_viewer": false,
+      "username": "orn.bnk48official",
+      "connected_fb_page": null,
+      "edge_owner_to_timeline_media": {
+        "count": 371,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": "AQBT7cXjfnru5Bz-mcmxo5PWiQyA1CZbkeLcKJWJ1WmTKCS5QlLM8naciNEs_m2FtgwEec5BBgqV3w1o2EPaX8FAru4t8qkghaRqttKjVYr--Q"
+        },
+        "edges": [
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1716177635477768628",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "เปลี่ยน Look อาจมีคนทัก เปลี่ยนรักอาจมีคนทุกข์ .. มาตามสัญญาแล้วนะคะ55555 \nโดนโหวตรูปนี้จากตู้ปลา เลยต้องลง ... อย่าพึ่งอันฟอลหนูไปเลย 😭 #ที่ลงดึกๆคิดว่าคนจะดูน้อยที่สุด"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfRFnd-H0m0",
+              "edge_media_to_comment": {
+                "count": 373
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518804338,
+              "dimensions": {
+                "height": 750,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e01e02eda41801aac27e6fad55b74e58/5B12F9D6/t51.2885-15/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "edge_liked_by": {
+                "count": 4965
+              },
+              "edge_media_preview_like": {
+                "count": 4965
+              },
+              "gating_info": null,
+              "media_preview": "ACoqyL65a5ZSy7MD3yc85ye3p2FUwK0L+/8AthU7duwHvknPXn09BVAVpYRctbNrn5U4OM5PT2H4090khUh+DyPyrR0ttoKDAYlSM+mPX69qZq772KjA2Bc49TnP1xkUr6lW0McndTaXG3g0ma7ou0UZlzUJbeRlNuu0AYPGM+nHsOp71oafYRSw+ZIOTnnJ6Z4rLvUgRwIDlccnOefyHbkjseK3ra4JRQyFQcAHHBxz26cDp39K4jRFOBzbuWXnBwOOGHQZ9MZBz16iomj+1TtGrBi/ftkc8e2asMrx72G7IcYC8qDkfXtjHBpIVy/mdCHHzHjk45x/ID8ah6DMxrKVZvs5xvPPXgDGck+w61c/siX1H5VpbkN5I5IHCqPyBPb6Vo70/vD9K0u7CsjjL6FIJSkZ3LgHqDg9xkcHFdDaS7rde+MZ5xj3/wA965Ouh0c/IfrWfmCL7FchtsmflGQMBcH7/HXH0PripZIYnKozF953EdMhRgdMcZOT6mmysQ3BpkP/AB8N7D+tNgtTOWON7qXIyqnAAJHT/wDVTjbzZ4kAHb5c1mRuwaQgkEhuc+9VvMb1P5mqs+j7fkGh/9k=",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1fd0d7b264d68c63e47891ad07c2bcf2/5B0CEAB7/t51.2885-15/s640x640/sh0.08/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/88aef08f262a1fe30505e51d4d50ff94/5B1785B3/t51.2885-15/s150x150/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/edd1bd3e72282a3154a43aed44cc02cf/5B02768C/t51.2885-15/s240x240/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2f46248039b161df9643f2fc0882f75d/5B21CCF4/t51.2885-15/s320x320/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c5c5ae3f0bbc192037c97ea97acf13de/5B09E472/t51.2885-15/s480x480/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1fd0d7b264d68c63e47891ad07c2bcf2/5B0CEAB7/t51.2885-15/s640x640/sh0.08/e35/27890856_339794239860516_5451018715074134016_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1715902151166646326",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "หน้าม้ากระจุยกระจาย 5555 ขอมาเป็นสาว Bazaar 1 วัน😉ติดตามพวกเรา ได้ใน นิตยสาร Harper’s Bazaar Thailand เดือน มีนาคมนี้ค่ะ ... 🏙🎉 #OrnBNK48 #BNK48 #Bazaarthailand"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfQG-pNndg2",
+              "edge_media_to_comment": {
+                "count": 410
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518771498,
+              "dimensions": {
+                "height": 1349,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fd291b9d5d7d79bff651ea8c973b6ffc/5B1B0713/t51.2885-15/e35/27880702_585818531752578_1523415227624849408_n.jpg",
+              "edge_liked_by": {
+                "count": 26869
+              },
+              "edge_media_preview_like": {
+                "count": 26869
+              },
+              "gating_info": null,
+              "media_preview": "ACEqqrEmAdo/KnrGHbZGm9gMnAHA9z6+gp0YGwMeBtBP5VLpzsoklK5Vm4I6nA6YHt39aAIUWN13BRj6CoLpFWMkAA5HapbQlgwPBJ3Aezc/z4pL4Yi+pH9aAMvY3ofyNFL5j+p/M0UwLkrfuI89DgH8qWG6ltsiMgBuSCAR9famEB7VT/dP58kYqupD/e7cdaQF15GRUljGdoIb6Z7+3p6UXcwlhVhxlsYPsKlsnRWbbkgABVbHA9T6+mKgvsBVxxliT9e5oAz6KbmigDRtCDFtPIyeDUF1OsjDaMbQBxxnH86W0+7+JqjQBfsyS5PYL/Wlvj938f6U2y6N+H9abedV+hoAqZopKKAP/9k=",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d0d5416796b58d627aed87eb4dae7bd7/5B086B31/t51.2885-15/s150x150/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e2e51c74b70319d28dfa872f780f1858/5B05B0A7/t51.2885-15/s240x240/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2243277094019b2f275fbf8c3179c534/5B00104F/t51.2885-15/s320x320/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c3ababc99f1ad421fe8fcd0341e9f10b/5B22AE66/t51.2885-15/s480x480/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1715389578780524313",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ขอขอบพระคุณทางผู้บริหาร A.P. Honda racing thailand และ BNK48 มากๆเลยนะคะ ที่ให้พวกเรา 6 คนเป็น แบรนด์แอมบาสซาเดอร์ 🙏🏻 เราจะทำอย่างเต็มที่ค่ะ ! ทีมพี่ๆนักแข่งก็สู้ๆ ไปด้วยกันนะคะ 🤟🏻 สำหรับเพลง River อรก็จะทำอย่างเต็มที่เช่นเดียวกันค่ะ ยอมรับว่ากดดันเพิ่มมากขึ้น แต่ก็รู้สึกน่าท้าทายมากกว่าค่ะ 😉 พร้อมแล้วที่จะลุยข้ามแม่น้ำ5555555 ขอบคุณที่ให้โอกาสหนูนะคะ  ขอบคุณจริงๆค่ะ 🙏🏻🙇🏻‍♀️ #BNK48xAPHonda #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfOSbu-nr8Z",
+              "edge_media_to_comment": {
+                "count": 633
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518710394,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/66a9715ab6a21f9a4c75be2d0d901cc9/5B00DCA3/t51.2885-15/e35/27580777_335394820280505_9140371604881014784_n.jpg",
+              "edge_liked_by": {
+                "count": 35533
+              },
+              "edge_media_preview_like": {
+                "count": 35533
+              },
+              "gating_info": null,
+              "media_preview": "ACEq3qguXZIyU5c8L9T/AIdanrOv2YtFGn3mfd/3yP65pgNtJJfNaOQll25BI78f49K0qyY5GilLHnjaB6DOTz65rUVw43DoaSdy5RcdejFooopkDqqsMzBm52LlQPU8Hn6Yq1WbPN5T4+8O/bmk3YqMXJ2RXkJV2buCD/n86vWkpcMDyQQfz/8A1VlMchiauaecs30FQnqdc4+5rukv0NOikorQ4hxOOT0FYMj72LepzWxcHEbf57is2RQT0qJHTR0uyoXBU1d00E7nwQDgDPGai2KWxgflWxjAwOgpRXUurLS3cKKSitDjP//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb71b46d78b86491c5e7d63a8d5e1a66/5B1DC0DB/t51.2885-15/s640x640/sh0.08/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6d8306efc372bedf44a207429182c1ae/5B266398/t51.2885-15/s150x150/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b55c03fada2a8317949a9351af727c6f/5B0AAD0E/t51.2885-15/s240x240/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/00543051f3e6bf9cc39b68544d38fcad/5B1CBDE6/t51.2885-15/s320x320/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/82aee2e37047d5809483ec187ad7694f/5B0C2ECF/t51.2885-15/s480x480/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb71b46d78b86491c5e7d63a8d5e1a66/5B1DC0DB/t51.2885-15/s640x640/sh0.08/e35/c0.112.900.900/27580777_335394820280505_9140371604881014784_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "1714507865699287396",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "มาแล้วววว ~ มาดูมุมน่ารักๆ ของพวกเรา BNK48 ที่ไม่มีที่ไหนมาก่อน จะซี้ปึ้กรักกันขนาดไหนดูกันน้าาาา\nปล. ซื้อสินค้าใน 7-Eleven ก็ได้พ้อยท์ เร็วๆนี้ อดใจรอนะ!\n#BNK48 #TruePoint #BNK48xTRUE #TrueYou #TrueID #OrnBNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfLJ9HrnoFk",
+              "edge_media_to_comment": {
+                "count": 178
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518605313,
+              "dimensions": {
+                "height": 607,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bb2c4cf9b8f7a96814b517ac350b3215/5A89BADB/t51.2885-15/s1080x1080/e15/fr/28150892_815487581988441_3471030008410013696_n.jpg",
+              "edge_liked_by": {
+                "count": 13227
+              },
+              "edge_media_preview_like": {
+                "count": 13227
+              },
+              "gating_info": null,
+              "media_preview": "ACoXvowYZU5+lP3VnMWgiYoQT7e5q2uBgE8+n1HQ/TtTFYkEgJI9Kdz6cVUQKcsWKjOCT/Meg9M1a3c9eOeMdf8A9VFx2FIOM1FmopLgqzAkYOAo9PWofNHpTQmh4wRzUtFFMkQAegp3FFFAyN1Vuoqr5C0UUCP/2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d4d0b2655f37c2f437f0839c5e713f56/5A8A02E0/t51.2885-15/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7485b9bbc0943c7e37cc31374633c812/5A89AE2C/t51.2885-15/s150x150/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a5615528a5e747bb007eed73f06797db/5A8970FA/t51.2885-15/s240x240/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e17cb3a52dc63593b074645d234bd815/5A89F3D2/t51.2885-15/s320x320/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/acaa22674f891e42a36dc5a54aae5261/5A89ACFB/t51.2885-15/s480x480/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d4d0b2655f37c2f437f0839c5e713f56/5A8A02E0/t51.2885-15/e15/c236.0.607.607/28150892_815487581988441_3471030008410013696_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": true,
+              "video_view_count": 26668
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1714412659352234960",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "#bangkokcity 🏙 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfK0Tr3H2vQ",
+              "edge_media_to_comment": {
+                "count": 137
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518593936,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1063d0caa684a338624da3ba4a8f68f0/5B1A9631/t51.2885-15/e35/27879081_160926004558944_2676515531720228864_n.jpg",
+              "edge_liked_by": {
+                "count": 17844
+              },
+              "edge_media_preview_like": {
+                "count": 17844
+              },
+              "gating_info": null,
+              "media_preview": "ACEquxjipgKggbcPpxVgGtbmNhwFSAU0Gng0rhYdiiq322L1/Q0UDMrc+0hc/L83Hbpye+DRFdO0nPcAf5/GnKdsjDsVI/lTZ41jcGMgHA4J9e/+e1RcotNOQRzxyfbgVDJfkAbSDu61TlSTgYwck8H6ZpqBsEPx3OcZx1yPyoCxJuoqvuHv+tFMLE4lKjdnk9ahkkd239C3+c/4U5+g+tOk+9+FSUhszORyTnqOc9ufz/8ArU+QopIAIyOe/UdvTrTgBsY99rVG4AfA6cfyFAyrke9FTYFFMR//2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e5cce96a668f98b1b02d22b6be3acb36/5B16C9E3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e6073bb1fe4734fc4d1bed0f3ea6762b/5B00F50D/t51.2885-15/s150x150/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f48989d5c6fbcadae2e58eac7c0bc26b/5B095966/t51.2885-15/s240x240/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/df0adbbb482526686729f04f75adefa5/5B22D5AE/t51.2885-15/s320x320/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/560efe079dc7c1bc4e68c2d82bd23626/5B1F8344/t51.2885-15/s480x480/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e5cce96a668f98b1b02d22b6be3acb36/5B16C9E3/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27879081_160926004558944_2676515531720228864_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1713954850718246956",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ขอแค่ได้สบตา ... 👀 #OrnBNK48 #BNK48 #thestandard"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfJMNsWHmgs",
+              "edge_media_to_comment": {
+                "count": 374
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518539361,
+              "dimensions": {
+                "height": 560,
+                "width": 640
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d0562fe808f29952f2c5036f9f89037e/5B143BD3/t51.2885-15/e35/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "edge_liked_by": {
+                "count": 30915
+              },
+              "edge_media_preview_like": {
+                "count": 30915
+              },
+              "gating_info": null,
+              "media_preview": "ACokbHMCafIocg9TWfuYcn8ulSLL61Ay2Ixn/wCvWhbD5s+/9DWSswyBg49a1rTB5H+eDTQEfWlxSMQgyfy71IACM+tUIy2iWTnPIpyWmSB1yaGVSwKgqM889vYdqtJKkRygP4n+WKkYxlWNWQgBd3ynH48f1q7bAAcemf0NQyXW9SoUD3J/pS2p4cn0P8qEMCoZwR/n2qyAw71TifLCr3mqOP8ACmhGR0pKKKkYVctvuSfQ/wAhRRTQEdv94fUVeMS+lFFID//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cadf9f0b39e4a27ec45be91f248dfc36/5B23889C/t51.2885-15/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/25f5ded21001e1be24df5d6927ffec8d/5B199B90/t51.2885-15/s150x150/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b973306eb0fdb6f858319db7e0c20d81/5B01DE06/t51.2885-15/s240x240/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7f4c2a8d4fb137732af45e12f7d2e1ba/5B13EAEE/t51.2885-15/s320x320/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2beabbfd28c1f01f6fab2f7f584377df/5B0146C7/t51.2885-15/s480x480/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cadf9f0b39e4a27ec45be91f248dfc36/5B23889C/t51.2885-15/e35/c35.0.497.497/27877696_1677241389037877_3737542598961659904_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1713165345711049804",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "จากวันนั้นจนถึงวันนี้ และ จากจุดนั้นจนถึงจุดนี้ทำให้รู้ว่าการที่อยู่ในจุดนั้นและมาถึงในจุดๆนี้เป็นสิ่งที่ทำให้จุดนี้นึกย้อนไปถึงจุดนั้น  เอาเป็นสรุป ณ จุดๆนี้ ว่า ขอบคุณ 1 ปีที่ผ่านมานะคะ Happy 1st year anniversary 🎊 เดินด้วยกันไปได้ไกล ❤️ #BNK48 #OrnBNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfGYs4gncxM",
+              "edge_media_to_comment": {
+                "count": 574
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518445245,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a12872890962f9617f0340a4bc0f0bf4/5B07AE69/t51.2885-15/e35/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "edge_liked_by": {
+                "count": 32796
+              },
+              "edge_media_preview_like": {
+                "count": 32796
+              },
+              "gating_info": null,
+              "media_preview": "ACEqkBycDnH+eamDhBlyFHuev0qq8vkru6sc7R6+pPsP1NZjMzncxyT3P+f0pDN9LmNuFYE/l/PFVr9ShV+QCcHHb0P49KycGr9tPuHkyn5W4DHqvp+H8j7UA0Qbj/eH6/4UU/8Asy59vzooIsJMfMYt26D6dv8AH6moMc4HWrzW7Gi0t9ku5+cA4A9fXp2oLKkcRZRtGCVZjnndg849DUdasGImRWGNu7Bz2b+ftWcbeQdBuHsf/wBVFgH+fL/eNFQbJP7rfkaKBnTBFP8AnFQtZRMc8gn0Yj+tc/ZSuDgMcemTiuhhOevNMkkFug56n3NO8laZIcdOKpsxJwSTQBd8pPUfnRVKilcdj//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/abc8b28296694671e1fce78eaea54822/5B20AF6A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d280979e22da817b40ef85f47f590fb9/5B0E1BCE/t51.2885-15/s150x150/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/82b5b9cffbaa783e03bb337b30ae29f6/5B09873E/t51.2885-15/s240x240/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4e38346c1f630d8f2773c6f3c6fcacab/5B17CE3F/t51.2885-15/s320x320/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/89c22eee25a61e70245f6d3677f090e3/5B10B312/t51.2885-15/s480x480/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/abc8b28296694671e1fce78eaea54822/5B20AF6A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/27576124_2467562420134846_5742281793403355136_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1712476600645185070",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Keep calm and don’t worry 😉 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfD8GUrn-4u",
+              "edge_media_to_comment": {
+                "count": 637
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518363140,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ef99da7b5b4877e0ee22594dd13205b6/5B188803/t51.2885-15/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "edge_liked_by": {
+                "count": 36060
+              },
+              "edge_media_preview_like": {
+                "count": 36060
+              },
+              "gating_info": null,
+              "media_preview": "ACoqrxnrzSq4b681HGhYZ71agiCtmpKM59wO3rn8OtQOCpweSatTvhiFwRz2/kaglYEjHYYoEMQmM/WpfMaoadmgDUUgE56YzS+bnG2owwNR7XAJTgZHI6jJ4NIoawjKZUEMDgnnHf8ADmqLDB644rqJcPCVPRRx9R/jXMsM/gO9CBk+3MYNM8ompowWXb0H86uLgAD0piKMR5qxEZGlVFP3zgjtgcn8qqVd03/j5H0P8qQG1NHshYexx+VchnIFdzJ9xvof5Vwo6UxExbb69etSC5f1H5VBJ0qOgo//2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e482c477f53faad621073535297e59e4/5B1B8D96/t51.2885-15/s640x640/sh0.08/e35/27879959_361403711002078_596568552232714240_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fefcb2bf2f9146536a00b42478e8e40d/5B07F0B7/t51.2885-15/s150x150/e35/27879959_361403711002078_596568552232714240_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/55aafeef2a85f7f12e581375852f2b09/5B07BD02/t51.2885-15/s240x240/e35/27879959_361403711002078_596568552232714240_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/be43935265248da5cbe49f55f77216df/5B085B4A/t51.2885-15/s320x320/e35/27879959_361403711002078_596568552232714240_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8daf05765af7ba3b0133f6f6cd3d5046/5B17F9FE/t51.2885-15/s480x480/e35/27879959_361403711002078_596568552232714240_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e482c477f53faad621073535297e59e4/5B1B8D96/t51.2885-15/s640x640/sh0.08/e35/27879959_361403711002078_596568552232714240_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1712254176209026222",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfDJhnyHjyu",
+              "edge_media_to_comment": {
+                "count": 318
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518336625,
+              "dimensions": {
+                "height": 809,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa14130ec1e3b99ff8b396becea3608d/5B20F19F/t51.2885-15/e35/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "edge_liked_by": {
+                "count": 20993
+              },
+              "edge_media_preview_like": {
+                "count": 20993
+              },
+              "gating_info": null,
+              "media_preview": "ACof5yp4raWb/Vqze4HH59K0oAkIAjVZHPVmG7B9FH8z37cVq+W0se2bajD7hHGPYr6UmyuXuYcVvDHkT5Z/7oOAPYnqT9OB61JJbxzIDbB9xbBTqBxnO7/E1qCzVFBZQ/8AtFiR/TFThxjao8thyAPun29j6VPMxcr76GX9ilSP5uC+Aepwo5IyM8kge3GM1mGAud2Tzz+f41tG7ww28Z/DPvn+f4e9ZslzNuO0Erk4OO2eKtSct0DiokdnIRKACRnuDjt0/wD1Vrm6A4HJPOFx+Fc8jFGDDqPWtGGQom8HaXJ/T/PSk1fYqMktzUjkJJVsgNwynoRUUjeUGDHAAJ4H5Ee/tVBLsY3Mc7fY8nt+H5VUllMzFuQpxxnvSsHNf1Gli5y3b7o/z/k9Kn2N70kSd6t5p3KUe5//2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a61fcde2554f8568acf9db6c10f7ea7a/5B151AB0/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4bce23dff988da21a3addaf6f45b6710/5B1F4D24/t51.2885-15/s150x150/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3f6b0a76d6f6dfee2b9b2ab23d93590c/5B218AB2/t51.2885-15/s240x240/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/90aead9f850f60f1e7a962519bede59b/5B25C6B4/t51.2885-15/s320x320/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0fa6b7fb38a2dba5d7c41e080b13944d/5B125C07/t51.2885-15/s480x480/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a61fcde2554f8568acf9db6c10f7ea7a/5B151AB0/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/27573358_1590509657681124_5521435300892508160_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1711521211006973964",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ฝัน ฉันฝันถึงเธอ หลับตาลงทุกทียังเจอ ... #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BfAi3kvnfgM",
+              "edge_media_to_comment": {
+                "count": 369
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518249249,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4b1f595a1377eb3c77016008b17557f0/5B1255E6/t51.2885-15/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "edge_liked_by": {
+                "count": 33543
+              },
+              "edge_media_preview_like": {
+                "count": 33543
+              },
+              "gating_info": null,
+              "media_preview": "ACoq36KiByM0pNMCOVz0HFV1PAqnePL5hKkAR44PfjP455qVZQEBB7Zqo9iZLqTlgOtM8we/6f41WMm7k07Hsf8AP409eliTQaVRwCPpmmmQqDnsM/5/GkZFGT8v9c1WkJIO3pjH+c1JZXvV3OWbIJXHse+PzzTLFlkGxgeBkEelE3QYzngfpSWUe1/c9vp1+lFuqC+lmaAgjByNx/Ef4UhWMev5j/Cp9jFvmO0Y6VTa2BJPmdT7/wCNK7CxdZlPPXHP+Sf6VXaXzQSoA3DjPWhyQRz3P8xUeBupDK0kg3DPbj6cVYszncxGM8D6d/zqNx81aNp/q/xNU2KxDO4A69qp+ZVu4GW5qMUgP//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f16ea3aeaccd23ce345692b3f5aa1784/5B17CCCC/t51.2885-15/s640x640/sh0.08/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5e8b15003e03bb1e6a0a962709051eae/5B1F68B1/t51.2885-15/s150x150/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7fd4b777870b848878e30bf457ec35e5/5B152D25/t51.2885-15/s240x240/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/eef4fa665ad897b1ca96026f0a314bcc/5B0B4F81/t51.2885-15/s320x320/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b8e2ef8f845cd6faaa99a1bf326020b3/5B054FD9/t51.2885-15/s480x480/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f16ea3aeaccd23ce345692b3f5aa1784/5B17CCCC/t51.2885-15/s640x640/sh0.08/e35/27575341_1514041562048952_8082300072139685888_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1710844093180915736",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Do everything in love ❤️ #OrnBNK48 #BNK48 #Ornista"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Be-I6NoH7AY",
+              "edge_media_to_comment": {
+                "count": 388
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518168530,
+              "dimensions": {
+                "height": 1129,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bdec851c09a04cc8c3f9efa4e9a119ec/5B16FA6C/t51.2885-15/e35/27576788_380817289049228_41146692933779456_n.jpg",
+              "edge_liked_by": {
+                "count": 34500
+              },
+              "edge_media_preview_like": {
+                "count": 34500
+              },
+              "gating_info": null,
+              "media_preview": "ACkq3WfA/SjfVXec8DP1/wA800yEcnj8QaYEVxcDzAhB+vbPXH5UxpscCqd2+XEg65B/THT/ADmtEKhwxUAnp1p3toxNX2IN2Tg4/Hp+NReY39xf0/xqC4vMMUC7QD15ycfj3qt9oHo1ZvyBHQR5HMgCk+h/pn+VRyOucHJJ7npj0/yKha7wCB1/lUMfm3B+Xp3PQVQxj5JwF5Ax+NaJYRIMfLgenPSoXRg+MZPBz0/z0qxJlzk073C1jGu4ZH/fAFgRz7fUdfyrP/GulLFfp6U3zV9D+VIAgsi3Mn5d/wDP+cVcLCMbUxx+lSScJVU0AVRNmfy8Z43E56H/ACat1TUASse5x/KrYoAaRUeKmpKYH//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8d89b12add02487c63f82427658fa119/5B0F9CF8/t51.2885-15/s640x640/sh0.08/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6e9610b80949a0545d1a4c4e7a0d28b1/5B06F984/t51.2885-15/s150x150/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/adad147feb27d1539b1a2224f9795528/5B0C700F/t51.2885-15/s240x240/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5ffebe8ac1ddf5ec4bfe053af73e9890/5B09FA9B/t51.2885-15/s320x320/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cac5b3a374fcdd4df9e45ad89b16f631/5B08E8CE/t51.2885-15/s480x480/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8d89b12add02487c63f82427658fa119/5B0F9CF8/t51.2885-15/s640x640/sh0.08/e35/c0.24.1080.1080/27576788_380817289049228_41146692933779456_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "1710154992169489875",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "บทสัมภาษณ์ออกแล้ววว ~ ใครยังไม่ได้ไปอ่านไปอ่านกันได้ที่ >>> https://thestandard.co/orn-bnk48/ #Thestandard #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Be7sOeTH5XT",
+              "edge_media_to_comment": {
+                "count": 545
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518086383,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1d02ebc748106360244c0c0c0b903da7/5B1462B3/t51.2885-15/e35/26871922_164258664224272_8049653785204621312_n.jpg",
+              "edge_liked_by": {
+                "count": 35222
+              },
+              "edge_media_preview_like": {
+                "count": 35222
+              },
+              "gating_info": null,
+              "media_preview": null,
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/79717b2a30c324c77319e6cc581e29dd/5B058061/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0f0c05e55dfad3a7f117837579b32304/5B106C8F/t51.2885-15/s150x150/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5900f26533240f44a68cde15b66b384c/5B1EA2E4/t51.2885-15/s240x240/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/630b021061f0f4d4521941cc7e25fc66/5B1DCD2C/t51.2885-15/s320x320/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f11657a10ca5a80eee092d107c8034d0/5B25AEC6/t51.2885-15/s480x480/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/79717b2a30c324c77319e6cc581e29dd/5B058061/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26871922_164258664224272_8049653785204621312_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphVideo",
+              "id": "1709573872692329294",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "มาหาแล้ว ~ ขอบคุณนะค้าาา 🙏🏻🤟🏻❤️🎉 รักน้าาา ~ ❤️ #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Be5oGEnHXtO",
+              "edge_media_to_comment": {
+                "count": 442
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1518017194,
+              "dimensions": {
+                "height": 937,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/604b4c9306a341c5d1060d6647499fee/5A8A02C9/t51.2885-15/e15/26872691_105508953604430_8725261508189093888_n.jpg",
+              "edge_liked_by": {
+                "count": 24747
+              },
+              "edge_media_preview_like": {
+                "count": 24747
+              },
+              "gating_info": null,
+              "media_preview": "ACEqyGi2jd26ZphFb8dtCU8sLvUjJY5/PPTjqKxFTeMjnt+X+PWvQpTveMvkZzXKM8vtnJPQDk/TipTbMFJwQV65IB4GThepwCCfQVdWZI41Cj94cE4HQocL/wB9KTk1C9yXJ2qFGCB3I4xkHOBlcA5J6Z61o5PsIz6KXYfb86K0uI17EFlUNu2ZAOPu89M85HXB4xU9taLG/HzIc4/D+v8AMVLb2zW5KE/I/II4II/h/EU8yiLKsAo6rk9B6H/P5150XfVEyfcoXMSjOBx7/wCFZTyf5/wHT+dW7q+VvlTn37Vlk561o6llZasKcX10JvM96KgoqPbS8jblNy71XfgRduc+lY8kjSHLHJNMpKw20WwJdeoUUUtIoSiiigD/2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/39226d0593f08cba02ef7f4cef7c4c66/5A899A65/t51.2885-15/s640x640/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/af37420c461814b1ca2801d4810e34e9/5A8989C6/t51.2885-15/s150x150/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/302ba6227151c6357d26c6f51e230ae8/5A89960D/t51.2885-15/s240x240/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/31b6531e60d8cb50b2a97d328db50307/5A897BD9/t51.2885-15/s320x320/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/29532cbba17dac6577961955f3300c11/5A89718C/t51.2885-15/s480x480/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/39226d0593f08cba02ef7f4cef7c4c66/5A899A65/t51.2885-15/s640x640/e15/c0.90.720.720/26872691_105508953604430_8725261508189093888_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": true,
+              "video_view_count": 55678
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1708903331727919153",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "อรว่า อรก็อยู่ตรงนี้... อยู่ที่นี่นะ ... 😶  #goodnightworld #OrnBNK48 #BNK48 #รูปมันเยอะเลยต้องลงมันให้หมด"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Be3PoarH8gx",
+              "edge_media_to_comment": {
+                "count": 525
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517937173,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a5a43d67623df38eae0fdcc6f283ea8e/5B1CF326/t51.2885-15/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "edge_liked_by": {
+                "count": 40962
+              },
+              "edge_media_preview_like": {
+                "count": 40962
+              },
+              "gating_info": null,
+              "media_preview": "ACoq3aKKWmBQuNQjgbYQWYdcdvxPf2q3G6yKHXkMMist7VZCQzYYs3bsTz9fY1PpmREV6hXIH0qbjsX6SnUlUIRyQMjr71ntfEyeSgyw6k/rgVoN0NYP+qldicEng+x5qWWvM2JIy3171nRv9lm2J8yt1T39V9/bvSNeOqE5B7DFZO4sST1/z+tIdjq0mRztGc4zggj+YFS1URHfY0hIZBzjuff+vvVqqIAjIx61zt7+7l25DYAJ/oPy610Vcvef69/qaTGiNnBXaBgk5zmr+nQpt3/efJ69j2/Tmsw1r6T95/oP50imbIGBiiiirMz/2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10ee7148a495a4dcabc04476a98913e3/5B07C247/t51.2885-15/s640x640/sh0.08/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7cc1db14e9e376d8214ddd9019ebf085/5B029643/t51.2885-15/s150x150/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f90423d996dc5b72ff32f56a0e73653e/5B10117C/t51.2885-15/s240x240/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bc579524bf0188768f9f85e218ebb422/5B1EB604/t51.2885-15/s320x320/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ae1b7193348d84b67f6d92765d0ee1fc/5B05BD82/t51.2885-15/s480x480/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10ee7148a495a4dcabc04476a98913e3/5B07C247/t51.2885-15/s640x640/sh0.08/e35/27579985_165475067320219_7485013933951025152_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1708600437153684866",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "อากาศอ่ะหน้าฮ้อน แต่เธออ่ะน่าฮักกก ~ 🤟🏻❤️ #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Be2KwuHn12C",
+              "edge_media_to_comment": {
+                "count": 525
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517901065,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/da3e650b6943cef51d3b078a6da06e79/5B1058D5/t51.2885-15/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "edge_liked_by": {
+                "count": 34109
+              },
+              "edge_media_preview_like": {
+                "count": 34109
+              },
+              "gating_info": null,
+              "media_preview": "ACoqzHTPzKeKcPrmlgtpJuEGdvXnj86njtZMn5TlflP+e/1pAQTp5DYByDzk015Pl+taLQ/aYhkHcoweOhAwR+OMfWskxuvUMMc8g8fnQAgcgVOJm9D+tN8v5s/iQetWePUfkf8AGgk3Y0EShF6/1qRUIOCeOuaZAC53HoOlTyN2pJdWaHO3dy2WRf3ZLfQ4B4P1PU+ta69AjdTxzyCPUZ659KytRtXaTegLAgdPUVeaJ3QAn54wPxHUH+h9waY2JcxLJgP94HgjqR6fSmhAONg/75qeGYS9eHHX/PpUuaLC0LRIQVRKuc/NkHp7VZm61Ahz+lDBEcUAVwckkDPXgn6fyqeT5cP2Hyt9D3/A/pmkT7x+n9afJ9xvpQBk3UTQtuU49PpTftzf3f1rXADRc8/L3+lYJHNMR//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b6372bc75d9e2d12b9b6039d0571aa2e/5B0DF840/t51.2885-15/s640x640/sh0.08/e35/26869381_215494045676263_984468364657164288_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/169429ae0e3bd7d05ff20555ef50997f/5B12A861/t51.2885-15/s150x150/e35/26869381_215494045676263_984468364657164288_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/96b0fc4b2861bcb2a54027b8201a7aff/5B24B5D4/t51.2885-15/s240x240/e35/26869381_215494045676263_984468364657164288_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f5d66431d2dc228ceb39093dcb709695/5B19189C/t51.2885-15/s320x320/e35/26869381_215494045676263_984468364657164288_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ebe3f768d35bed7f3a0f2bc157e9ff05/5B108C28/t51.2885-15/s480x480/e35/26869381_215494045676263_984468364657164288_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b6372bc75d9e2d12b9b6039d0571aa2e/5B0DF840/t51.2885-15/s640x640/sh0.08/e35/26869381_215494045676263_984468364657164288_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1707869902433272383",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ถ้าฉันอยากขออีกครั้ง อ้อนกันบ่อยๆได้ไหม และถ้าไม่มากเกินไป อ้อนกันทุกคืนได้ไหมเธอ ~ 🌚 🤟🏻 #Amaete #OrnBNK48 #BNK48 #Ornista #เชียงใหม่อากาศดี๊ดี"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BezkqCpHcI_",
+              "edge_media_to_comment": {
+                "count": 453
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517813979,
+              "dimensions": {
+                "height": 809,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9f53867bac2ed99eebb57a615d9c9f18/5B1F4DFD/t51.2885-15/e35/26863531_240315566508474_3706418225097998336_n.jpg",
+              "edge_liked_by": {
+                "count": 28873
+              },
+              "edge_media_preview_like": {
+                "count": 28873
+              },
+              "gating_info": null,
+              "media_preview": "ACof2N5pRJUO4Uu4VQicc96pSQiPLjk9Bjr/APrPvU4xQSucGlYDHGnvJktwev8Ak1ZWwwACtR28rrcFSzFTkHJz9PpzxWvuNIexmeec4APGfxqYScc1nTTDbjBX8vpxzVcXQA7+meP8DUa9ANczbSB9aaZPyPesuW4JwB1wP17dqcGYNkgEA8j1Hp1p6iLaq28serf/AKx+oBq6JgayJpWkYt2PQf40wTD+8f8AvkVQ2f/Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/15504a5d831f79b2319a9ccca01ec6ed/5B16E45A/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dae27118057a09b2f5847fe674a2dffd/5B020E19/t51.2885-15/s150x150/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e3524e4d6363d1b65f056eb7650ef5b1/5B26BB8F/t51.2885-15/s240x240/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/60648fe6be159bbf03c493a471598d76/5B16F867/t51.2885-15/s320x320/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4214e59a679dedaa51bbb122e286dcaf/5B04D14E/t51.2885-15/s480x480/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/15504a5d831f79b2319a9ccca01ec6ed/5B16E45A/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26863531_240315566508474_3706418225097998336_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "1707487655880335522",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Love u all ❤️🙏🏻 #bnk48roadshowinchiangmai #OrnBNK48 #BNK48 #goodnitesleeptight #safetrip #Ornista"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeyNvnzHKCi",
+              "edge_media_to_comment": {
+                "count": 442
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517768412,
+              "dimensions": {
+                "height": 1079,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9b68e4fe9b2c7a8c8f92deffc2340f51/5B1C6ECF/t51.2885-15/e35/27576241_181011959327810_3852747374325661696_n.jpg",
+              "edge_liked_by": {
+                "count": 32160
+              },
+              "edge_media_preview_like": {
+                "count": 32160
+              },
+              "gating_info": null,
+              "media_preview": null,
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7233cc93233d78606a8b838aafdeb1ac/5B035A07/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/669bdf4ec1f1f1b0024c2dff0bcfcd5e/5B039344/t51.2885-15/s150x150/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/eed551fb4a835dd74a76cd01b4ece539/5B24CCD2/t51.2885-15/s240x240/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f355abbdaee35c02eadf187da393cbdd/5B21E23A/t51.2885-15/s320x320/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2d6dd10d3e1644657fff9b941f17c63a/5B035A13/t51.2885-15/s480x480/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7233cc93233d78606a8b838aafdeb1ac/5B035A07/t51.2885-15/s640x640/sh0.08/e35/c0.0.1079.1079/27576241_181011959327810_3852747374325661696_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphSidecar",
+              "id": "1706703435729989337",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ดอกไม้ของเค้าาา ~ ห้ามแย่งไปนะ ! 🌚 ขอบคุณทุกๆคนที่มาอวยพรวันเกิดให้นะคะ ปีนี้เป็นวันเกิดที่ดีที่สุดในชีวิตของอรเลยค่ะ อรจะเติบโตขึ้นเป็นเด็กดีในวัย 21 ปี อย่างสมบูรณ์และแข็งแรง55555 ช่วยเป็นกำลังใจให้ด้วยนะคะ ปล.ได้อ่าน comment ของทุกคนแล้วค่ะแต่ตอบไม่ไหว ฮือออ ~ ขอบคุณที่มา HBD กันนะคะ ❤️🙏🏻#OrnBNK48 #BNK48 #ฝันดีเจ้าาา #HBDOrn21"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bevbbt3n-7Z",
+              "edge_media_to_comment": {
+                "count": 660
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517674925,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3a492f3e94bb086a9cecdfaf071cc426/5B0EE87D/t51.2885-15/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "edge_liked_by": {
+                "count": 27985
+              },
+              "edge_media_preview_like": {
+                "count": 27985
+              },
+              "gating_info": null,
+              "media_preview": null,
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10c667ec8219b1e332642471a6892f31/5B083E1C/t51.2885-15/s640x640/sh0.08/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/558f4e2a41627eef9472cd16ce07adc4/5B131918/t51.2885-15/s150x150/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a92f14678f4312f81e9c53b7b26d011f/5B1EEB27/t51.2885-15/s240x240/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3376be2bb171a93f6f9d1a0099f2967c/5B08345F/t51.2885-15/s320x320/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c94391f3856a65dc82a3da5fba8ddecb/5B170CD9/t51.2885-15/s480x480/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10c667ec8219b1e332642471a6892f31/5B083E1C/t51.2885-15/s640x640/sh0.08/e35/26869306_141922133144174_8017761758951243776_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1706248083943155767",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Officially 21st 🎂 #HBDOrn21 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Betz5eeH2g3",
+              "edge_media_to_comment": {
+                "count": 1467
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517620643,
+              "dimensions": {
+                "height": 213,
+                "width": 320
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c4ec603d772eb3d23c3768bc51420263/5B066751/t51.2885-15/e35/26869424_348546588957548_3929299011688726528_n.jpg",
+              "edge_liked_by": {
+                "count": 25958
+              },
+              "edge_media_preview_like": {
+                "count": 25958
+              },
+              "gating_info": null,
+              "media_preview": "ACobRHEfzE8Y6ZzWhFIQvB4PQf0+tYKsV+Y1oJc+bjnGO3p/nk0hF15m5B+Ujse/uMf5zUCOW+bOcdv88ZqOaRMqxO9gCD2A9wPfsP8ACoBIFG85OfT/AA9TTaa1C66GvC3HByKs5rBiuT2OM9BV/wC0Y4LL+P8A+umBgpgnnqKuW8uGKqCc9xVCEZfBraiUKMAYpDKcsITOQTn154+v1p0ciiJhjDDp6jPFTXIyv51mIec+1O9x36CwFUbDdPUjOPwPFXvtydgf0rK9aKRJ/9k=",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e89ddbed1dc127c64ee7016a264b47ff/5B12C742/t51.2885-15/s150x150/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d9c92214b34010f8d60198ac0e21e53c/5B1E1A46/t51.2885-15/e35/c53.0.213.213/26869424_348546588957548_3929299011688726528_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1705689513941810935",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "กิ๋นเข้าแล้วก๋า ? ลำก่อเจ้า ?\nเตรียมหันหน้าขึ้นเหนือแล้วค่า55555  แล้วเจอกันนะคะเชียงใหม่ 🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Ber05NnnD73",
+              "edge_media_to_comment": {
+                "count": 372
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517554056,
+              "dimensions": {
+                "height": 642,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2de1d58cecf7eace266fb4b4bbaebc5d/5B0FA165/t51.2885-15/e35/27576428_357089238098248_2561151215501049856_n.jpg",
+              "edge_liked_by": {
+                "count": 25852
+              },
+              "edge_media_preview_like": {
+                "count": 25852
+              },
+              "gating_info": null,
+              "media_preview": "ACoYkt9OO797hlwQACeuev5UX1osMQaPIIIycnnP6VPKzW0KLnaRhWbGcdSahupGe0VmOSzdenr6UWEZAM394+3NWbRXeZVkYlT1GTUcQ3ZHfGRxnOP/AK3NS2bYnXPv/KgDUuLVIomdc7lGQSc9DzXPec394/ma6iZdyOMjlW6fSuPzS3GzrLlAVxkqM9hmq+qfLAi+4/QUUVQPYj0mMENJjLDgfTHP596o2Z/0hT7n+RoooF2OmKdfcf4iuN2qOufyoopDP//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a873119968974c22b0c61a3b302ec206/5B03BE5D/t51.2885-15/s640x640/sh0.08/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2311bebbcc96bb7987d1b237d3acb56e/5B1D341E/t51.2885-15/s150x150/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7732b20ed5ace27965b73e56a2b62d19/5B0F6C88/t51.2885-15/s240x240/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/10b66038a7a5c0a44d7fadc624188a14/5B1CC360/t51.2885-15/s320x320/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7323db5e7b178bac658ed72fcfebcad7/5B0CBA49/t51.2885-15/s480x480/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a873119968974c22b0c61a3b302ec206/5B03BE5D/t51.2885-15/s640x640/sh0.08/e35/c219.0.642.642/27576428_357089238098248_2561151215501049856_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1704280590068329691",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Amaete แล้วนะ ... 🌚 #รอฟังๆ #cantwait #Ornista #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bem0irAnazb",
+              "edge_media_to_comment": {
+                "count": 247
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517386100,
+              "dimensions": {
+                "height": 809,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0e313e0d9ffb3413f8d11ff53a98f5ea/5B1B3223/t51.2885-15/e35/26866154_318584758650244_120770528993607680_n.jpg",
+              "edge_liked_by": {
+                "count": 23209
+              },
+              "edge_media_preview_like": {
+                "count": 23209
+              },
+              "gating_info": null,
+              "media_preview": "ACof0nhBOQcd6VY88Enilz/PH604nb+RpiJA2ML7U3zvlLY6Z/SsgzMLgc/wr+eP/r1dzkKAeGChv60XGCh5hkswz2HTkelZrWmCcZxmtdAFzjtmmbQadxFLzWPTrUbXBLYY1b8kD69Kga1Y+hHYf/XrOwWIGBCmQfeLYPp04/GpEk755Bx+X9KnEIwQRw2O/cdDSpbqnXkEUBYrPcMnWjzW7EY+oqf7MOR1HoT0+hqL7Inv+f8A9agLH//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ce0b597b487904b00ef569f03843e156/5B1714AA/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/290d54da5764a1f17f6aeebc0744389e/5B21D7D6/t51.2885-15/s150x150/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ad72c3594db088d631f82c966e2dbb7c/5B0B0F5D/t51.2885-15/s240x240/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0297da1b9481f782aed41509ba11c4c8/5B10A1C9/t51.2885-15/s320x320/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5575b2bd93d5e7764c8366a4c4e9c6ef/5B035A9C/t51.2885-15/s480x480/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ce0b597b487904b00ef569f03843e156/5B1714AA/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26866154_318584758650244_120770528993607680_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1703093692423656810",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Charaline Always Charaline ... #Charaline #ชราไลน์ #BNK48 #Moveon"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeimrCcHtVq",
+              "edge_media_to_comment": {
+                "count": 393
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517244610,
+              "dimensions": {
+                "height": 490,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/cf0fc72c4552ae47654a295904d57eba/5B0066AE/t51.2885-15/e35/26866211_510969912622639_4312052259291660288_n.jpg",
+              "edge_liked_by": {
+                "count": 26618
+              },
+              "edge_media_preview_like": {
+                "count": 26618
+              },
+              "gating_info": null,
+              "media_preview": "ACob0HfYhb0BNNM5ijDP94kjHTkZz6noM1C02GzgkDsvU+vWopL5d2NuQcgZ428c9j1/PtTEX1uQSRjAC7s/gCf5/pTYrlnKqRy2cnnAwcfn35qJkZkTPOcYxkcEfqMDnNNlnaNgFAO4HvwPf64/lQMtx3Ad2TupP44OD+tT5rLs5RKcbWG0sdx6Ek84Pbnt+FaOaBGOkm4jH3jnj8D09aYswzjjbnJJ6ggH+h7VoRqByAM/SgRJ/dH5CkMpiaRdmMkDjPbjuAfY0pyhODkbeR3zjH9f51oeUhxwPl6cdKcY1O7IHzdff60WC5Sin8tAWBYDgY9B3x/X86tiVSM5HNK0SMACAQBTfs8foKYH/9k=",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a3cd44a1ba3e0085596e59e870549c3d/5B14380C/t51.2885-15/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0e5fb9523c156fbfc8f884c979121fa6/5B12D300/t51.2885-15/s150x150/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e33a34df8b15fac94cace2d8aff85fd7/5B17F496/t51.2885-15/s240x240/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dd2a503bd67771a222124e0957a6535e/5B1EB67E/t51.2885-15/s320x320/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e23e6da9ab027f8eda08b00614fd255d/5B171F57/t51.2885-15/s480x480/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a3cd44a1ba3e0085596e59e870549c3d/5B14380C/t51.2885-15/e35/c130.0.490.490/26866211_510969912622639_4312052259291660288_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1702307690012559568",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "If you wait until you’re ready \nYou’ll be waiting the rest of your life - หากคุณรอเวลาให้คุณพร้อม เพื่อเริ่มต้นทำอะไรสักอย่าง คุณต้องรอเวลานั้นไปตลอดชีวิต ... cr.Inbrief | สำหรับสองวันที่ผ่านมา ขอบคุณมากๆเลยนะคะที่ตามมาดูพวกเรา BNK48 รู้สึกดีใจและเป็นเกียรติกับชีวิตอรมากเลยค่ะ 🙏🏻ทั้งสองวันอรเต็มที่จริงๆ และค่อนข้างกดดันมากด้วย55555 เลยรู้สึกซึ้งเวลาคนมองมาที่เราแล้วยิ้มให้แบบให้กำลังใจทุกครั้ง ขอบคุณทุกๆคนนะคะที่ให้กำลังใจอร ❤️ อรจะเริ่มต้นแม้ว่ามันจะยังไม่ได้ดีหรือยังไม่ได้พร้อม ขอบคุณค่ะ 🙏🏻 ปล.ตอนที่เตะที่คาดผมบอกเลยคือเบลอมาก ไม่รู้เตะไปทางไหน แต่ตอนเต้นท่าถัดไปหางตาเห็นคุณจิรัฐกำลังเก็บให้ ... ก็ OMG และเต้นต่อไปค่ะ555555555 หนูกราบขออภัยมา ณ ที่นี้ด้วยค่ะ ขออภัยเป็นอย่างสูงค่ะ 🙇🏻‍♀️😭🙏🏻\nปล2. เข้าใจความรู้สึกของตำแหน่ง 0 แล้วค่ะ ... ❤️\nปล3. ขอบคุณสำหรับรูปค่ะ \n#OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Befz9MpnUjQ",
+              "edge_media_to_comment": {
+                "count": 493
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517150912,
+              "dimensions": {
+                "height": 945,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ca7f869b09c6401e2c3f77fedc15054c/5B022DDF/t51.2885-15/e35/26872022_296575194200684_6803357423840002048_n.jpg",
+              "edge_liked_by": {
+                "count": 31243
+              },
+              "edge_media_preview_like": {
+                "count": 31243
+              },
+              "gating_info": null,
+              "media_preview": "ACok16WkJAGaztRdwgQD757HpjsfWruI0FdX+6QfpTqzbEyIux8FP4T0P/1x/WrckvlsMnjvSuOxPSUAgjI6GlqhEb9Kyr1vOnSJTwp5P8/yFaEzlV+UZJ7e3fPpVAh32yRR4OcE8DI7/h6GoKQ6divAbK8DI7c4OAB1Hb0q3NAs4GSQwHXP6HH60yVPMVkXrtPXrx09vY0WobYpOTgYx269f6H6U3HsJstoNqgegA/Klpqgjqc5p1AhtOoooApuSr8HjPSn3Nw0X3cdM85/xoooGOjcsiserYz+NTUUUkN9D//Z",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa88358cc4a7ce7907adac9f902f6883/5B058D3E/t51.2885-15/s640x640/sh0.08/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/db541226a28b82177cad7d46bd8e3c71/5B25F742/t51.2885-15/s150x150/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/615660bad068716cef6f11517d361a66/5B2231C9/t51.2885-15/s240x240/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e1fed5d3e98e3c09554ff972bd1d932f/5B107E5D/t51.2885-15/s320x320/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/356a520a52562499c0cce09187acc4f7/5B041D08/t51.2885-15/s480x480/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fa88358cc4a7ce7907adac9f902f6883/5B058D3E/t51.2885-15/s640x640/sh0.08/e35/c67.0.945.945/26872022_296575194200684_6803357423840002048_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "__typename": "GraphImage",
+              "id": "1701191248924103803",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "THE STANDARD เปิดบ้านต้อนรับ อร BNK48 หญิงสาวที่ทำให้เราได้เห็นจริงๆ ว่า 'ไอดอล' ก็มีมุมอ่อนไหวที่ไม่ต่างกับคนทั่วไป ติดตามบทสัมภาษณ์ที่ทำให้เธอต้องน้ำตาหล่นพร้อมกับความลับที่ไม่เคยเปิดเผยที่ไหนมาก่อนได้เร็วๆ นี้ ... รอติดตามกันได้นะคะ 🙏🏻🤟🏻😘\nวันนี้ใครว่างไปเจอกับพวกเรา BNK48 ได้ที่งาน Japan Expo ได้น้าาา ~ รอเจอทุกคนล่ะ 👀#TheStandardCo #BNK48 #OrnBNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Beb2G13H9R7",
+              "edge_media_to_comment": {
+                "count": 194
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1517017821,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e6c8af8a66772185ce0ef16fb20eebf0/5B006318/t51.2885-15/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "edge_liked_by": {
+                "count": 20887
+              },
+              "edge_media_preview_like": {
+                "count": 20887
+              },
+              "gating_info": null,
+              "media_preview": "ACoqkWpahWphQIjMfOe1OIUDGcE9FH82Pf6Uy5lEKFjyegHqaowX0j/KwVh64wR9D/jQMvPHJP8ALjCDgE8LUo0geo/I/wCNXSS3HUj+H+H8T/n6VGCPVh7DoPYc0CKSipgMUIAwyOhpjncdq9B1+vp+HU0DEe3jueJMgDO36nvVW2jEDtDgl+rEgYK9sfjitEIcEde/4dxStAXAIO04wT3x1wPfPeiwx8b+Y21c+WM/ifb2+tW9yjj0pkahFCjtUDHk/WgRRs7gOvPAAJ+gHvVJLsD+E/mKiTiM/T+tQrSY0jcjuUmAU7lBP3hxg+5960Au31/GsXJEBHbYf61o2hLQITydo5NNCZaJoptLTEf/2Q==",
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/97f0db64b2fa63c480b50c24d87d6cd1/5B1E9B32/t51.2885-15/s640x640/sh0.08/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+              "thumbnail_resources": [
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1d48b3b83b036b714cb3f63441176297/5B03134F/t51.2885-15/s150x150/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+                  "config_width": 150,
+                  "config_height": 150
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e16b00a27f5cd28acaf12e5069ef5bdc/5B0C5CDB/t51.2885-15/s240x240/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+                  "config_width": 240,
+                  "config_height": 240
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7d95f5a94c37b68e807acbf8d9c912a4/5B25107F/t51.2885-15/s320x320/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+                  "config_width": 320,
+                  "config_height": 320
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/12dc0370180c04b4fd5db8970eb56f90/5B194727/t51.2885-15/s480x480/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+                  "config_width": 480,
+                  "config_height": 480
+                },
+                {
+                  "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/97f0db64b2fa63c480b50c24d87d6cd1/5B1E9B32/t51.2885-15/s640x640/sh0.08/e35/26310830_2036840376555149_1001984568435146752_n.jpg",
+                  "config_width": 640,
+                  "config_height": 640
+                }
+              ],
+              "is_video": false
+            }
+          }
+        ]
+      },
+      "edge_saved_media": {
+        "count": 0,
+        "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+        },
+        "edges": []
+      },
+      "edge_media_collections": {
+        "count": 0,
+        "page_info": {
+          "has_next_page": false,
+          "end_cursor": null
+        },
+        "edges": []
+      }
+    }
+  }
+}

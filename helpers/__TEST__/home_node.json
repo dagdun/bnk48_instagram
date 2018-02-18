@@ -1,0 +1,66 @@
+{
+  "node": {
+    "__typename": "GraphImage",
+    "id": "1715902151166646326",
+    "edge_media_to_caption": {
+      "edges": [
+        {
+          "node": {
+            "text": "หน้าม้ากระจุยกระจาย 5555 ขอมาเป็นสาว Bazaar 1 วัน😉ติดตามพวกเรา ได้ใน นิตยสาร Harper’s Bazaar Thailand เดือน มีนาคมนี้ค่ะ ... 🏙🎉 #OrnBNK48 #BNK48 #Bazaarthailand"
+          }
+        }
+      ]
+    },
+    "shortcode": "BfQG-pNndg2",
+    "edge_media_to_comment": {
+      "count": 403
+    },
+    "comments_disabled": false,
+    "taken_at_timestamp": 1518771498,
+    "dimensions": {
+      "height": 1349,
+      "width": 1080
+    },
+    "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fd291b9d5d7d79bff651ea8c973b6ffc/5B1B0713/t51.2885-15/e35/27880702_585818531752578_1523415227624849408_n.jpg",
+    "edge_liked_by": {
+      "count": 26058
+    },
+    "edge_media_preview_like": {
+      "count": 26058
+    },
+    "gating_info": null,
+    "media_preview": "ACEqqrEmAdo/KnrGHbZGm9gMnAHA9z6+gp0YGwMeBtBP5VLpzsoklK5Vm4I6nA6YHt39aAIUWN13BRj6CoLpFWMkAA5HapbQlgwPBJ3Aezc/z4pL4Yi+pH9aAMvY3ofyNFL5j+p/M0UwLkrfuI89DgH8qWG6ltsiMgBuSCAR9famEB7VT/dP58kYqupD/e7cdaQF15GRUljGdoIb6Z7+3p6UXcwlhVhxlsYPsKlsnRWbbkgABVbHA9T6+mKgvsBVxxliT9e5oAz6KbmigDRtCDFtPIyeDUF1OsjDaMbQBxxnH86W0+7+JqjQBfsyS5PYL/Wlvj938f6U2y6N+H9abedV+hoAqZopKKAP/9k=",
+    "owner": {
+      "id": "4636727204"
+    },
+    "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+    "thumbnail_resources": [
+      {
+        "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d0d5416796b58d627aed87eb4dae7bd7/5B086B31/t51.2885-15/s150x150/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+        "config_width": 150,
+        "config_height": 150
+      },
+      {
+        "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e2e51c74b70319d28dfa872f780f1858/5B05B0A7/t51.2885-15/s240x240/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+        "config_width": 240,
+        "config_height": 240
+      },
+      {
+        "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2243277094019b2f275fbf8c3179c534/5B00104F/t51.2885-15/s320x320/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+        "config_width": 320,
+        "config_height": 320
+      },
+      {
+        "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c3ababc99f1ad421fe8fcd0341e9f10b/5B22AE66/t51.2885-15/s480x480/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+        "config_width": 480,
+        "config_height": 480
+      },
+      {
+        "src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/01443b12d39f4d4d7a70fea4187cce08/5B1CB672/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/27880702_585818531752578_1523415227624849408_n.jpg",
+        "config_width": 640,
+        "config_height": 640
+      }
+    ],
+    "is_video": false
+  }
+}

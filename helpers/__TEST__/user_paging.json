@@ -1,0 +1,1721 @@
+{
+  "data": {
+    "user": {
+      "edge_owner_to_timeline_media": {
+        "count": 371,
+        "page_info": {
+          "has_next_page": true,
+          "end_cursor": "AQCfKfzPr-B4tfn6W4VyVBudY7jKoI8NQBzOSeC17XJlWkzz7-PKVL4i-uc66GwLxy0tOIh8TYoVl2CZQmzwX-du-ixuTMIOoon8gSvUgDD8xw"
+        },
+        "edges": [
+          {
+            "node": {
+              "id": "1700888486185148374",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้ปริศนาฟ้าแลบเป็นยังไงกันบ้างคะ >< ไหนมาเล่าให้ฟังหน่อย 5555555 #ปริศนาฟ้าแลบ #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeaxREFnh_W",
+              "edge_media_to_comment": {
+                "count": 311
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516981729,
+              "dimensions": {
+                "height": 718,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a23505544d5e3839ef9be115a209c775/5B1CB016/t51.2885-15/e35/26225918_1690370381021878_2083969177705512960_n.jpg",
+              "edge_liked_by": {
+                "count": 19169
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3e4459d89d9331abad5026729296018d/5B0503F5/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/26225918_1690370381021878_2083969177705512960_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1700440690159663116",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "อากาศดีๆ\nตื่นขึ้นมาตื่นลืมตาได้เวลารู้ทันที\nวันธรรมดามาอีกแล้วซิ ... #Comingsoon \nใครมาว่างมาเจอกันที่งาน Legend of Champions กันได้นะคะ see ya 😘 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeZLcxiljgM",
+              "edge_media_to_comment": {
+                "count": 251
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516928348,
+              "dimensions": {
+                "height": 809,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/928780d7c698966852ac4c6cff1f0506/5B0E2047/t51.2885-15/e35/26224764_182112282541641_1517415381650636800_n.jpg",
+              "edge_liked_by": {
+                "count": 18937
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5c8c01f9581e889fcb9c2241fe058052/5B19DBE0/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/26224764_182112282541641_1517415381650636800_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1699175165622972972",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Hide and Seek 🍃\n#OrnBNk48 #BNK48 #throwback"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeUrs9-H3Is",
+              "edge_media_to_comment": {
+                "count": 253
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516777486,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6aedbc5af602ff077630d1ce41ac6f33/5B257FE5/t51.2885-15/e35/26154085_179431569324734_2322283250669584384_n.jpg",
+              "edge_liked_by": {
+                "count": 17726
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bdf42c9f2db7023470e6ddc3b91568e2/5B1CDE37/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26154085_179431569324734_2322283250669584384_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1698576162413709334",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Get to know me before you judge me :) #throwback #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeSjgUwnYgW",
+              "edge_media_to_comment": {
+                "count": 468
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516706079,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/49f9c3a1b7fdd8f449569e6a8766897a/5B1F8589/t51.2885-15/e35/26274643_2472559959636714_5750993971354533888_n.jpg",
+              "edge_liked_by": {
+                "count": 21554
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/82bb157bac08e986307c68f60f950178/5B12418A/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26274643_2472559959636714_5750993971354533888_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1698031787338359472",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "จะยิ้มอะไรเบอร์นั้นอ่ะ ... อ๋ออออ ... .\n.\n.\nเบอบั๊ก... บั๊กเบอ 🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeQnun9n-Kw",
+              "edge_media_to_comment": {
+                "count": 243
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516641184,
+              "dimensions": {
+                "height": 500,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/946e5ca24d776a40be20bb4bb7681052/5B15A3CA/t51.2885-15/e35/26282091_991511527678262_6640376755125223424_n.jpg",
+              "edge_liked_by": {
+                "count": 15049
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9858ec43f9b70d603f27e3fec5a147a6/5B0DAD91/t51.2885-15/e35/c120.0.480.480/26282091_991511527678262_6640376755125223424_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1697658030014800878",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "เมี่ยงคำคนแก่ท่าทางใจดี 👵🏻 #OrnBNK48 #BNK48 #thaifood #thaitraditionalfood"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BePSvvVHyPu",
+              "edge_media_to_comment": {
+                "count": 213
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516596629,
+              "dimensions": {
+                "height": 742,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ecbc877562d41d67d61bbdcd06e95307/5B245A1A/t51.2885-15/e35/26275084_394390644334420_6867466850184200192_n.jpg",
+              "edge_liked_by": {
+                "count": 8365
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/aab36fb8f65a3c1aefe73e7e898cc6b9/5B00011A/t51.2885-15/s640x640/sh0.08/e35/c4.0.742.742/26275084_394390644334420_6867466850184200192_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1697209663589531931",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "เธอคือหวานเย็น ... ดับร้อนข้างในหัวใจที่ฉันมี 🤟🏻 #OrnBNK48 #BNK48 #ยูนิตเด็กหลงทางจนหมาไล่เดอะเจอนู่น"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeNszJjnUEb",
+              "edge_media_to_comment": {
+                "count": 329
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516543179,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/36b5ef73600f81ef53dd39132b4674b1/5B182E7F/t51.2885-15/e35/26366580_170602713702228_8466486666293411840_n.jpg",
+              "edge_liked_by": {
+                "count": 15433
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/c27baf6d8e8960e56948d18dac3abfb4/5B0FF9AD/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/26366580_170602713702228_8466486666293411840_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1695869246012945349",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "จากบัดดี้ในห้องซ้อมเต้น มาเป็นบัดดี้ VOOV กันแล้วเด้อค่ะ พรุ่งนี้ฝากตัวด้วยนะคะคุณหนู @kate.bnk48official \nอย่าลืมดูกันน้า จะพาไปเที่ยวที่ไหน ห้ามพลาด หึหึ ! บอกเลยว่ามีขึ้นห้วยลงเขาอ่ะ 5555555 🍃🌴🌤🌊 ปล.ติดตามได้ใน VOOV น้องเคทนะคะ #OrnBNK48 #KateBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeI8BgaHHPF",
+              "edge_media_to_comment": {
+                "count": 142
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516383389,
+              "dimensions": {
+                "height": 750,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/590687539f4622acc8a4bad24fbf8592/5B151897/t51.2885-15/e35/26152868_1894916064152184_2197256013948649472_n.jpg",
+              "edge_liked_by": {
+                "count": 7913
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ba13db8db782f9839da8ed1c8e25d96c/5B042BBD/t51.2885-15/s640x640/sh0.08/e35/26152868_1894916064152184_2197256013948649472_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1695063271710591360",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้ดีใจที่ได้เจอกับทุกคนนะคะ 🤟🏻 อย่าลืมกันนะ ! ท่องเที่ยววิถีไทย เก๋ไก๋ สไตล์ ลึกซึ้ง ... ถ้าอยากรู้ว่าลึกซึ้งยังไงให้มาที่งาน #เที่ยวเมืองไทย กันนะคะ 👍🏻🇹🇭 งานน่าเดินมากกก อยากเดินวันละสิบรอบบ #KeepMovingOrn #OrnBNK48 #BNK48 #Ornista \nปล.ไม่ต้องเป็นห่วงนะคะ อรแข็งแรงอยู่แว้วว ขอบคุณที่เป็นห่วงกัน รักนะ จุ้บิ ❤️😘\nปล2. มาอาบน้ำกันเถอะ 💦\nปล3. ใช้เจ้าของวันเกิดถ่ายให้5555"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeGExCWHwmA",
+              "edge_media_to_comment": {
+                "count": 208
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516287310,
+              "dimensions": {
+                "height": 1082,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/420103f873bc0958894358194847d139/5B19BAEF/t51.2885-15/e35/26866504_316777152163231_1108995491091185664_n.jpg",
+              "edge_liked_by": {
+                "count": 13000
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4bc9bf6ddc896a9df6d6c16444ea6d1c/5B21821B/t51.2885-15/s640x640/sh0.08/e35/c0.1.1080.1080/26866504_316777152163231_1108995491091185664_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1694829968323580008",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "You are my UNIVERSE ✨🌏 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeFPuBonRBo",
+              "edge_media_to_comment": {
+                "count": 211
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516259498,
+              "dimensions": {
+                "height": 426,
+                "width": 640
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f5026f0b8f693ee6e025a538a3429889/5B26A021/t51.2885-15/e35/26342280_1495441020554283_7725218806137618432_n.jpg",
+              "edge_liked_by": {
+                "count": 13051
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/81a1a173e7b00a4ef3560a9bb535a516/5B0C7B07/t51.2885-15/e35/c107.0.426.426/26342280_1495441020554283_7725218806137618432_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1694044082707250720",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้อย่าลืมดู Live ที่เพจ Amazing thailand เวลา 15.00 น. นะคะ อร น้ำหนึ่ง ปูเป้ มายด์ ก่อน และ เจน จะมาพาชมเที่ยวงาน เที่ยว เมือง ไทย 🇹🇭 กันนนน ห้ามพลาดนะ 😍🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeCdB4nnj4g",
+              "edge_media_to_comment": {
+                "count": 150
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516165813,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/268cfa4cdddb582b78fa5af132ce6927/5B084BEB/t51.2885-15/e35/26072082_169956757099311_6031042653850697728_n.jpg",
+              "edge_liked_by": {
+                "count": 12184
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/77cd8a8b11bddf61ccfa8207cf42685f/5B11B893/t51.2885-15/s640x640/sh0.08/e35/c0.112.900.900/26072082_169956757099311_6031042653850697728_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1693422798675869429",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "อาจจะอยู่ในจุดที่ยังไม่ได้สูงที่สุด แต่บอกเลยว่ามันสวยงามที่สุดค่ะ ... 😊 \n#OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BeAPxAxn371",
+              "edge_media_to_comment": {
+                "count": 293
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516091750,
+              "dimensions": {
+                "height": 1354,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/83197d01d071c59aff4b48132e07966d/5B1193FB/t51.2885-15/e35/26072119_161861437774128_8082825909280702464_n.jpg",
+              "edge_liked_by": {
+                "count": 12918
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3afbdc5b9116063632ec26b86dfcc053/5B04DB88/t51.2885-15/s640x640/sh0.08/e35/c0.137.1080.1080/26072119_161861437774128_8082825909280702464_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1692681491951106704",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ขอบคุณที่ทำให้อรได้เป็นส่วนหนึ่งในชีวิตของทุกคนนะคะ \nอรจะค่อนข้าง sensitive ทุกครั้งเวลาใครพูดว่า แต่ก่อนชีวิตเค้าพังมาก แต่เมื่อมาเจอกับอรและ BNK48 มันเลยเปลี่ยนไป หรือบางคนอาจจะเคยเป็นโรคซึมเศร้า แต่ตอนนี้เปลี่ยนไป หรือว่าอรเป็นที่พึ่งทางใจของเค้า .. มันรู้สึกตื้นตันใจมากจริงๆนะคะ อรไม่เคยคิดเลยว่าครั้งนึงในชีวิตอร และ BNK48 จะเป็นแรงบันดาลใจให้กับใครหลายคนได้ขนาดนี้ อรไม่เคยคิดเลยว่าสิ่งที่อรทำอยู่ หรือสิ่งที่อรเป็นอยู่ สามารถต่อชีวิตของใครได้อีกหลายคน และเมื่อวานที่งานจับมือ ทุกคำพูด ทุกกำลังใจ และทุกสิ่งที่แฟนๆทำให้ มันก็เหมือนต่อชีวิตของอรได้เช่นกันค่ะ ขอบคุณที่ทำให้ชีวิตอรได้ก้าวต่อไป ... ขอบคุณจริงๆนะคะ ขอบคุณจากหัวใจค่ะ  ขอบคุณที่รัก BNK48 🙏🏻❤️ •••••••••••••••••••••••••••••••••••••••••••••••••••••\nThank you for having me as a part of your life. I'm usually sensitive when someone tells me that thier life was in a bad situation or having a depression, but they're getting better after knowing me and BNK48.  Yesterday, at the hand shaking event, not only me that gave you happiness, but you also the one that gave me willpower to continue my life and career. Thank you from all my heart. Thank you for loving BNK48 ❤️❤️🙏🏻🙏🏻"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bd9nNlFn7qQ",
+              "edge_media_to_comment": {
+                "count": 349
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1516003379,
+              "dimensions": {
+                "height": 720,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f2b6ab987a073ade0340ed0d5a5b8072/5B0D51AA/t51.2885-15/e35/26869608_146113552717221_8523133458111791104_n.jpg",
+              "edge_liked_by": {
+                "count": 13572
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1d07e2bb15575b3926ff959f09953e8a/5B16EAAA/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/26869608_146113552717221_8523133458111791104_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1691777584718495008",
+              "__typename": "GraphVideo",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้วันสุดท้ายแล้ว ... จงเข้ามาเลน 10 ซะดีๆ .... #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bd6Zr_4HT0g",
+              "edge_media_to_comment": {
+                "count": 166
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515895686,
+              "dimensions": {
+                "height": 937,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/7e474f5ab4b788f994279c2c75720760/5A89D280/t51.2885-15/e15/26180822_1782170028752931_5533752807535935488_n.jpg",
+              "edge_liked_by": {
+                "count": 10403
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9a7d346a9876ba0e3203edc8749cc8a7/5A89CB13/t51.2885-15/s640x640/e15/c0.90.720.720/26180822_1782170028752931_5533752807535935488_n.jpg",
+              "is_video": true,
+              "video_view_count": 32686
+            }
+          },
+          {
+            "node": {
+              "id": "1691412929286394570",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ขอบคุณแฟนๆทุกๆคนนะคะ สำหรับวันนี้ 🙏🏻 🙏🏻 วันนี้ส่วนใหญ่จะเจอคำถามว่าเหนื่อยมั้ย ... บอกเลยว่าไม่เหนื่อยเลยค่าา แต่เข่าเสื่อมไปแล้ว? 5555555 หลอกเล่นนะคะ วันนี้แฮปปี้ดี้ด้ามีความสุขชุบป้าชุบมากๆเลยยย 🍭\nแต่ยังเหลือพรุ่งนี้อีก 1 วันนะคะ ! ใครยังไม่ได้มาจับรายงานตัวมาซะดีๆนะ 55555555 👀 พรุ่งนี้เจอกันนะค้าาา กลับถึงบ้านรีบพักผ่อนๆ นวดๆขากันด้วยน้าาา ~ ปล.เพลง Namida surprise 🎂 เต้นสนุกมว๊ากกกก บอกเลย 👍🏻🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bd5GxkCnlLK",
+              "edge_media_to_comment": {
+                "count": 149
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515852155,
+              "dimensions": {
+                "height": 1352,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3f0eb0c860c332342faeef7b4ebf4d0a/5B259FF1/t51.2885-15/e35/26365705_2010365132535360_5200270230751805440_n.jpg",
+              "edge_liked_by": {
+                "count": 11375
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1db1aa8635b996e571c0b074f53720a4/5B186596/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/26365705_2010365132535360_5200270230751805440_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1691035718163230755",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "เนื่องใน #วันเด็กแห่งชาติ ไม่สนใจมาหาเด็กที่เลน 10 บ้างหรอคะ 👀 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bd3xAaznfAj",
+              "edge_media_to_comment": {
+                "count": 147
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515807188,
+              "dimensions": {
+                "height": 718,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1f7690b355da117c037273c20cd4c384/5B0DD97F/t51.2885-15/e35/26364310_856654817861408_1825126505391325184_n.jpg",
+              "edge_liked_by": {
+                "count": 12131
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/8555defc278dd6b2d0cadc124dcae327/5B03CC32/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/26364310_856654817861408_1825126505391325184_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1689808955496196286",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "WITHOUT PASSION \nLIFE IS NOTHING . \n#Ornista #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdzaErCn-i-",
+              "edge_media_to_comment": {
+                "count": 209
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515660946,
+              "dimensions": {
+                "height": 1352,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b490bf62616988ca31c520e076c0236a/5B00116E/t51.2885-15/e35/26068960_145721706145774_2399313059626614784_n.jpg",
+              "edge_liked_by": {
+                "count": 12290
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/056cfcd8111b2b178f7b67e32d4b3d9b/5AFFDF6D/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/26068960_145721706145774_2399313059626614784_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1688999209650347057",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ปะะะ เดินเข้าเลนจับมือ ... 🤟🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bdwh9UdH9wx",
+              "edge_media_to_comment": {
+                "count": 173
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515564417,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fad38bd70c8fc91b886e819554e19070/5B21FF52/t51.2885-15/e35/26071634_137013103637567_7770131081583394816_n.jpg",
+              "edge_liked_by": {
+                "count": 10375
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/68fa0fa3499ba71c16f1bedd5230012b/5B0F9B33/t51.2885-15/s640x640/sh0.08/e35/26071634_137013103637567_7770131081583394816_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1688438352637782194",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "I was blue , but now I’m cool 😎 \n#เจอกันคืนนี้สี่ทุ่มครึ่งที่VOOVนาจา #OrnBNK48 #BNK48 #Ornista"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BduibxqHuiy",
+              "edge_media_to_comment": {
+                "count": 209
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515497558,
+              "dimensions": {
+                "height": 1348,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ebc2e115a43014bb4faf3a8b49d4bc32/5B0CD708/t51.2885-15/e35/26070464_1538111929598667_458959951847489536_n.jpg",
+              "edge_liked_by": {
+                "count": 11046
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b9a757b253ba337fa4fbb03adc2ad5da/5B093CAA/t51.2885-15/s640x640/sh0.08/e35/c0.134.1080.1080/26070464_1538111929598667_458959951847489536_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1686301732262201687",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้ขอขอบคุณทุกๆคนที่มาหาพวกเรา ทั้งที่ Gmm live และก็งาน Tera online ในวันนี้นะคะ อุ่นหนาฝาคั่งอบอุ่นละมุนแบบสีพาสเทล มากๆเลยค่ะ 🙏🏻🤟🏻❤️ และนี่คือ ... แฟชั่น ! #แฟชั่นเจ็บแขน #Ornista #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bdm8n23nUlX",
+              "edge_media_to_comment": {
+                "count": 189
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515242853,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4215f5f5f3b1e8c945c1d563b0006094/5B23D6C9/t51.2885-15/e35/25035792_725493070980462_4726773292076105728_n.jpg",
+              "edge_liked_by": {
+                "count": 11309
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bda500531daa786fb63f6e80a8af58fc/5B21161B/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25035792_725493070980462_4726773292076105728_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1684976227407707794",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Fall seven times, stand up eight . ✌🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdiPPORnT6S",
+              "edge_media_to_comment": {
+                "count": 113
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1515084840,
+              "dimensions": {
+                "height": 1349,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/81b975e9b41471624d1001f569f104b0/5B149E39/t51.2885-15/e35/25021593_540064516360366_285226175377178624_n.jpg",
+              "edge_liked_by": {
+                "count": 8801
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f116c0e64ee0431dfb31ade36c9587ec/5B20354A/t51.2885-15/s640x640/sh0.08/e35/c0.117.937.937/25021593_540064516360366_285226175377178624_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1683447516501991424",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ฮั่นแน่ ... ทำอะไรอยู่อ่ะ 👀 \nHi ... What are you doing 👀 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdczpjTHWAA",
+              "edge_media_to_comment": {
+                "count": 234
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514902604,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0b22f70b31165635bb63766b45ee14c4/5B136A81/t51.2885-15/e35/25024043_525580804495565_8312480765535322112_n.jpg",
+              "edge_liked_by": {
+                "count": 10507
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3b90205aea8cdcfd60c5b401116a7f39/5B1B14E0/t51.2885-15/s640x640/sh0.08/e35/25024043_525580804495565_8312480765535322112_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1682072378535703818",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "To . อร แคทเธอรีน พัดชา พัศชนันท์ \nกำลังจะจบปีนี้แล้วนะ...\nแกเก่งมาก ให้กอดใหญ่ๆ 1 ที ❤️😊 เรารู้ว่าแกโตขึ้นเยอะมากเลย จากตอนต้นปี เอาจริงๆ แกโตขึ้นในทุกๆวันนะ และเราก็ภูมิใจในตัวแกมาก ปีนี้มันดูผ่านไปไวเพราะแกมีความสุขใช่มั้ยละ บอกมานะ55555 \nมันดูเหมือนชีวิตมันอยู่ในกราฟที่กำลังขึ้น แต่แกอย่าประมาทนะ มีขึ้นก็ต้องมีลงได้ ขอให้แกพยายามอย่างนี้ พยายามให้เหมือนวันแรกที่แกได้โอกาสมา \nพยายามให้เหมือนกับที่ทุกคนได้คาดหวังไว้ในตัวแก \nถ้าแกท้อแกยังมีตัวเราคอยอยู่เคียงข้างอยู่นะ \nไม่ว่าจะปีไหนๆ เราก็จะอยู่กับแก ❤️ บางทีแกอาจจะทำอะไรไม่สมเหตุสมผลไปบ้าง แต่เราเข้าใจแกอาจจะมึนๆหรือนอนไม่อิ่ม 555555 ขอให้แกอดทน มีสติ ไตร่ตรองสิ่งรอบข้าง สิ่งไหนดี สิ่งไหนไม่ดี ก็ปล่อยมันไป เอามาเป็นบทเรียนและเรียนรู้เกี่ยวกับมัน เรารู้ว่าแกเข้าใจ 🙂 และ ขอให้แกทำในสิ่งที่แกรักอย่างมีความสุข ยังจำได้มั้ยที่แกบอกว่าแกมีความสุขทุกครั้งที่ได้อยู่บนเวที ได้เจอแฟนๆที่รักแก แกทำมันได้แล้วนะ ขอให้แกมุ่งมั่นแบบนี้ต่อไปล่ะ รักแกนะ ❤️ •••••••••••••••••••••••••••••••••••••••••••••\nTo. ทุกคนที่ได้อ่าน 😘\nขอให้ปีใหม่ที่จะถึงนี้ เป็นปีที่พิเศษสำหรับทุกคน อยากให้เป็นปีที่ มีสิ่งไหนที่เรายังไม่ได้ทำก็ขอให้เริ่มต้นใหม่ ได้ริเริ่มที่จะทำมันออกมา ใครเจ็บป่วยขอให้พระเจ้ารักษานะคะ ใครมีเรื่องไม่สบายใจบอกอรได้อรจะอธิษฐานเผื่อ 🙏🏻😌 ไม่เป็นไรเนอะ ไม่ว่าจะปีนี้หรือปีไหนๆ ก็ขอให้เราได้เดินด้วยกันไปอย่างนี้ จับมือกันเดินไปแบบนี้ แม้ทางที่เราเดินอาจจะมีสะดุดล้มกันไปบ้าง แต่เชื่อว่ามือที่จับกันอย่างมั่นคงจะทำให้เราได้เดินต่อไป พระเจ้าอวยพรค่ะ ❤️ #HappyNewyear2018 #Godblessyou #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdX6-qRHfUK",
+              "edge_media_to_comment": {
+                "count": 312
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514738674,
+              "dimensions": {
+                "height": 1352,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2a4548190b85f5636fbbf1e8b934d4f9/5B1DAA4F/t51.2885-15/e35/25039317_1516418701811497_2619620533741813760_n.jpg",
+              "edge_liked_by": {
+                "count": 10398
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/fc9618a0a188202a3b69bcec94b17810/5B131328/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/25039317_1516418701811497_2619620533741813760_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1680569321620704807",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "#throwback BNK48 Fanmeet 2017 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdSlOTbnw4n",
+              "edge_media_to_comment": {
+                "count": 168
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514559496,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9d6d2c8474106f3e2d54bb577749f72a/5B21A54A/t51.2885-15/e35/26266736_2091027817786707_4965950610517000192_n.jpg",
+              "edge_liked_by": {
+                "count": 7946
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/48023eb555ed2bb6a36a642ee74a6b33/5B16C260/t51.2885-15/s640x640/sh0.08/e35/26266736_2091027817786707_4965950610517000192_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1679640926590319235",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Erase all sad memories ... Hold my hands and smile 😊 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdPSIYLn7qD",
+              "edge_media_to_comment": {
+                "count": 141
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514448823,
+              "dimensions": {
+                "height": 720,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4088aca5331d2b648f8cf4c1ca65f976/5B100AB2/t51.2885-15/e35/26180779_1511087075606244_2825289853074145280_n.jpg",
+              "edge_liked_by": {
+                "count": 9048
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/bda2acac2741cdebbf1731221a5d05de/5B1FCF48/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/26180779_1511087075606244_2825289853074145280_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1679197672946258419",
+              "__typename": "GraphVideo",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Thank you with all my heart ❤️🎁 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdNtWMDn9Hz",
+              "edge_media_to_comment": {
+                "count": 60
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514396092,
+              "dimensions": {
+                "height": 937,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/2ad4ccc8bd51ac8c74f05a9b51bf8629/5A8A10FE/t51.2885-15/e15/26065742_421988914886075_8926839059423166464_n.jpg",
+              "edge_liked_by": {
+                "count": 4099
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3618e8e4a20a1a475934217541874800/5A89EAD2/t51.2885-15/s640x640/e15/c0.90.720.720/26065742_421988914886075_8926839059423166464_n.jpg",
+              "is_video": true,
+              "video_view_count": 8363
+            }
+          },
+          {
+            "node": {
+              "id": "1678989270143826860",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ขอบคุณที่มาหากันตั้งแต่เมื่อวานซืนจนถึงวันนี้นะคะ วันนี้ดีใจที่ได้เจอทุกคน เจอกันใหม่ปีหน้าเน้อออ ~ see you next year ❤️🌚🙏🏻🤟🏻"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdM99h0nXus",
+              "edge_media_to_comment": {
+                "count": 138
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514371139,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3124c8cd659f695c91a8ea44afc7f01b/5B1400D6/t51.2885-15/e35/25018284_168015280619942_5421258113586036736_n.jpg",
+              "edge_liked_by": {
+                "count": 9127
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/265d56a46581f2c13900ec58ba6e6126/5B040B04/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25018284_168015280619942_5421258113586036736_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1677478594694928531",
+              "__typename": "GraphVideo",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "จบไปได้ด้วยดีกับงาน Fan meet ครั้งแรกของ BNK48 บอกเลยว่านี่เป็นการแสดงละครเวทีครั้งแรกของอรเลยค่ะ สิ่งที่ยากที่สุดมากกว่าการจำบท คือการที่จะสื่อสารให้กับคนดู อรไม่รู้ว่าอรส่งถึงได้มากน้อยแค่ไหน แต่อรอยากให้ทุกคนได้รับรู้จริงๆว่าพวกเราผ่านความยากลำบาก ฝ่าฟันกับปัญหา กันมาได้อย่างไร ชีวิตการเป็นไอดอลมันไม่ได้โรยด้วยกลีบกุหลาบจริงๆค่ะ แหม่...พอจะพูดประโยคนี้ทีไรมันทำให้น้ำตาไหลทุกที55555555 บอกเลยว่าอินทั้งตอนซ้อมและแสดงจริง... จริงๆนะ 5555555555 ก็ขอบคุณที่มาดูเด็กน้อย 28 หน่อมาแสดงความเป็นตัวของตัวเองและสิ่งที่พวกเราพยายามจะสื่อกันเด้อค่ะ 🙏🏻 แถมในงานมีประกาศที่ระทึกหัวใจมาก ตอนนี้ก็ยังระทึกอยู่ คือการประกาศเซมซิงเกิ้ลที่ 3 ของพวกเรา ... ขอโทษที่ร้องไห้หนักเหมือนอุ๋งขาดน้ำจริงๆนะคะ ทุกครั้งที่ประกาศเซมมันก็จะบีบหัวใจแบบนี้แหละ ฮืออออ 😭 อรก็จะพยายามต่อไปค่ะ จงอย่าสูญสิ้นความมั่นใจ ฮุ้ยเล่ฮุ้ย!! แล้วก็อีกอย่างนึงวันนี้เป็นวันแรกที่รับสมัครรุ่นที่สอง ก็ค่อนข้างตื่นเต้นเหมือนกันที่วงเราจะมีอะไรมาเติมเต็มวงมากขึ้น อยากจะบอกว่า ... “ ถ้าเปรียบ BNK48 เป็นเสมือนบ้าน รุ่นที่ 1 จะเป็นเสาเข็มให้เอง ... “ จากใจของอรค่ะ ❤️\nปล. Merry Christmas 🎄🎁 ขอพระเจ้าอวยพรทุกคนนะคะ 🤟🏻 ปล2. Eng translate is coming soon na ka 555555 \n#OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdHmeTrHNiT",
+              "edge_media_to_comment": {
+                "count": 240
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1514191468,
+              "dimensions": {
+                "height": 937,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dbd71ede12afc95f89a7074c1c791412/5A899C84/t51.2885-15/e15/25019028_178559052737076_5074344680146075648_n.jpg",
+              "edge_liked_by": {
+                "count": 7662
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5544885ce8fdae285d33f9e64264bd3e/5A8982A8/t51.2885-15/s640x640/e15/c0.90.720.720/25019028_178559052737076_5074344680146075648_n.jpg",
+              "is_video": true,
+              "video_view_count": 31165
+            }
+          },
+          {
+            "node": {
+              "id": "1675416312569755705",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "I need something sweet 🍪🍰🎂🍭🍮🍩 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BdARkJxnXg5",
+              "edge_media_to_comment": {
+                "count": 162
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513945210,
+              "dimensions": {
+                "height": 718,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/75e2103baed12052426b6e251e5c7ab4/5B218E30/t51.2885-15/e35/18444586_378323442594637_2477464516472864768_n.jpg",
+              "edge_liked_by": {
+                "count": 8386
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0956e416a606019f6b436e23c38d1ce7/5B02047D/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/18444586_378323442594637_2477464516472864768_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1673869662575593105",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ไปหาหมอมาสามรอบแล้วนะ ฮึ่มมมม 😤😤😤 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bc6x5buHwaR",
+              "edge_media_to_comment": {
+                "count": 235
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513760834,
+              "dimensions": {
+                "height": 720,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d7392c6e9c22cc407a3c693482ed1500/5B113FD1/t51.2885-15/e35/25011399_1267695576707890_1818353565303832576_n.jpg",
+              "edge_liked_by": {
+                "count": 8561
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6371c0c27dfab6f39b4ea260dee54866/5B1C082B/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/25011399_1267695576707890_1818353565303832576_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1673130863314610033",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "\" Everyone you meet is fighting a battle you know nothing about. Be kind. Always. \" - ทุกคนที่เราพบต่างก็ดิ้นรนต่อสู้กับเรื่องราวมากมายที่เราไม่รู้เกี่ยวกับมันเลยแม้แต่น้อย จงทำดีกับทุกคนเสมอ - #agirlinblack #patchadiaryproject #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bc4J6fSnCdx",
+              "edge_media_to_comment": {
+                "count": 144
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513672763,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/df60a5c44b54f25485f7a659dd5c2807/5B0730AE/t51.2885-15/e35/25010865_308477772982209_8072980508503441408_n.jpg",
+              "edge_liked_by": {
+                "count": 8975
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f13119cd040e7b10f82c3c1f751d62a1/5B0FED7C/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/25010865_308477772982209_8072980508503441408_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1672587805091385471",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Happy bday เพคะ องค์หญิงงึ 👸🏻55555555 เป็นคนพูดไม่ค่อยหวานนะแต่จำรายละเอียดเกี่ยวกับแกเยอะมาก อิ้อิ้ ก็อย่างที่บอกใน Iive อาจจะดูห้วนๆแต่จริงใจนะ มายโอชิ ตะวัน ☀️✨ แกเป็นคนนึงที่อยู่บนเสตจไหนจะมีออร่าอยู่เสมอ เค้าคอยมองตลอดนะ อยากจะแฮปสัก ห้าทุ่มห้าสิบเก้า แต่ตอนนี้ต้องกินยานอน ห้ามนอนดึกแล้วแงงงงง 😭 ขอบคุณที่คอยเตือน เป็นที่ปรึกษาให้กับเค้า คอยรับฟังปัญหาของเค้านะ ขอให้เราผ่านร้อนผ่านหนาวแบบนี้ไปด้วยกันไปนานๆนะคะ พี่ตาหวาน 😉🌚 ในที่สุดแกก็เป็นพี่ หึหึ ไหนลองเรียกน้องอรสิ อิ้อิ้ ไปละ หลังไมค์ไปและเนอะ ไม่พิมพ์บอกตรงนี้หรอกคนเยอะ 🌝 จุ้บุ 😘 #OrnBNK48 #TarwaanBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bc2Ob86H1B_",
+              "edge_media_to_comment": {
+                "count": 160
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513608025,
+              "dimensions": {
+                "height": 1354,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3b7565c66b908e7f5fd0d5e64bf28ab9/5B0C794E/t51.2885-15/e35/25011790_1961014847242846_4148724269456556032_n.jpg",
+              "edge_liked_by": {
+                "count": 8296
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e8e760dfb0584302f5bc9cf6532a5a97/5B133BF5/t51.2885-15/s640x640/sh0.08/e35/c0.137.1080.1080/25011790_1961014847242846_4148724269456556032_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1670894097924887066",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Earth tone 🍂🍁 #Ornista #OrnBNK48 #BNK48 \nปล.วันนี้เจอกันที่งาน MBK Cover dance นะคะ \nปล2. ลงรูปใหม่นะคะ เมื่อกี้ลืมปิดแบรนด์ 🙏🏻"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcwNVRMHBIa",
+              "edge_media_to_comment": {
+                "count": 126
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513406120,
+              "dimensions": {
+                "height": 1352,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f1cc4e2da00f8414ab5633e66e6b342f/5B04F575/t51.2885-15/e35/25024276_2002677270013126_4311749863529250816_n.jpg",
+              "edge_liked_by": {
+                "count": 7180
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/542d3062ba70a062032dbb23f9737edf/5B023F12/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/25024276_2002677270013126_4311749863529250816_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1670441333075747427",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันนี้สนุกมากๆเลยค่าา ~ 💕🌟 ขอบคุณแฟนๆทุกคนที่มาหาเรากันในวันนี้นะคะ 🙏🏻😊❤️ ปล.จะรีบหายป่วยโดยเร็ววัน 🌚 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcumYrEHCJj",
+              "edge_media_to_comment": {
+                "count": 145
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513352146,
+              "dimensions": {
+                "height": 605,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/77d7d2d804104fda9cea0f952ab64fef/5B113E9C/t51.2885-15/e35/25005691_316364758879043_5614442594349088768_n.jpg",
+              "edge_liked_by": {
+                "count": 7560
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9b4a0fa9e0107ac6512ea860e3060b98/5B039420/t51.2885-15/e35/c210.0.536.536/25005691_316364758879043_5614442594349088768_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1669585118175311056",
+              "__typename": "GraphVideo",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Ahhhh ~ Christmas 🎄 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcrjtGzHjTQ",
+              "edge_media_to_comment": {
+                "count": 160
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513252683,
+              "dimensions": {
+                "height": 936,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/242fba65d64b819d4c242ea3a4816ae6/5A8A0705/t51.2885-15/e15/24838891_154523091848596_3561578669312835584_n.jpg",
+              "edge_liked_by": {
+                "count": 6455
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/abc3a1bf09d351a53e775dc10baab791/5A89CFE4/t51.2885-15/s640x640/e15/c0.89.720.720/24838891_154523091848596_3561578669312835584_n.jpg",
+              "is_video": true,
+              "video_view_count": 13124
+            }
+          },
+          {
+            "node": {
+              "id": "1668966335878346394",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "#PatchaDiaryProject \n#agirlinblack \n#OrnBNK48 \n#BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcpXAo4HTaa",
+              "edge_media_to_comment": {
+                "count": 147
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513176312,
+              "dimensions": {
+                "height": 720,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/02a513e3c85fef38c392a4d6f064aed9/5B114478/t51.2885-15/e35/25008008_2045442905739570_8242659311860318208_n.jpg",
+              "edge_liked_by": {
+                "count": 7667
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9e0b6228e99f3157b6b4d0d40d25cd8f/5B1F7E82/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/25008008_2045442905739570_8242659311860318208_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1667825265509620516",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "A Girl in Black ... 💄\nComing Soon 🌚🌝 #PatchaDiaryProject \n#OrnBNK48 #BNK48 \nปล.ติดตามDiaryฉบับเต็มได้ที่ เพจ Orn BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BclTj4SH1sk",
+              "edge_media_to_comment": {
+                "count": 135
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513040286,
+              "dimensions": {
+                "height": 1346,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/5200db2692d8dee9dc78089a5c6a4d9b/5B157708/t51.2885-15/e35/25005496_375989959528431_7521409525472034816_n.jpg",
+              "edge_liked_by": {
+                "count": 5167
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4055c9c2a5327122b630385e1293e9af/5B191F78/t51.2885-15/s640x640/sh0.08/e35/c0.133.1080.1080/25005496_375989959528431_7521409525472034816_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1667596297824958114",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "วันสุดท้ายของปีนี้ที่จะได้เรียนกับคุณครูนาโอะ ผู้แสนใจดี ⭐️ คุณครูน่ารักและละเอียดมากๆเลยค่ะ ทุกท่าครูเก็บเนี้ยบหมด ห้ามผิดแม้แต่ท่าเดียว 5555555 ได้ความรู้ใหม่เยอะจริงๆ บอกเลยว่าท่าเต้นของรุ่นพี่ akb48 ทุกท่าล้ำลึกและมีความหมายสุดๆ ขอบคุณที่ทำให้พวกเราเข้าใจได้มากขึ้นนะคะ ❤️🙏🏻 Big thank for NAOSAN for teaching us . 🙏🏻 We Learn a lot of dancing skill , Thank you very very much . We will miss you always 😭 hope to see you soon desu NAOSAN NAOSensei ❤️⭐️ #OrnBNK48 #BNK48 #BNK48withNAOSAN #WeloveBNK48 \nปล.คุณครูนาโอะเป็นครูสอนเต้นของ รุ่นพี่ SKE48 เลยนะคะ ปลาบปลื้มมากๆ ครั้งนึงในชีวิต 😭🙏🏻💕"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bckff9gnPai",
+              "edge_media_to_comment": {
+                "count": 80
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1513012991,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0207f1be0c65534c7a06d248a5399233/5B24BCD8/t51.2885-15/e35/25009147_2050375475249499_2952980652418400256_n.jpg",
+              "edge_liked_by": {
+                "count": 6017
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/9503ecd35f6271fc4bbcea466e4b6864/5B0260F2/t51.2885-15/s640x640/sh0.08/e35/25009147_2050375475249499_2952980652418400256_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1665228432383712563",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "มาแล้วสมการรอคอย ... ใครยังไม่ได้อ่านไปอ่านกันโล้ดดดด ~ 👌🏻💕\nhttps://www.dek-d.com/meet/47881/  #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BccFG--HJ0z",
+              "edge_media_to_comment": {
+                "count": 116
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512730720,
+              "dimensions": {
+                "height": 1359,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/47680c0b73b39683d6145d0862ba0320/5B0D9D59/t51.2885-15/e35/25012848_106292123494541_7787394238773198848_n.jpg",
+              "edge_liked_by": {
+                "count": 7336
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/0172705610c04c14ec64841bdc426e85/5B197A10/t51.2885-15/s640x640/sh0.08/e35/c0.101.780.780/25012848_106292123494541_7787394238773198848_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1664437189735173588",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "มันเป็น Step 😂💕 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcZRM41HU3U",
+              "edge_media_to_comment": {
+                "count": 194
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512636396,
+              "dimensions": {
+                "height": 720,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/e329eae9681ae9402381f9c197dbe2a6/5B22EC66/t51.2885-15/e35/24839070_1950926871902303_9052076534793240576_n.jpg",
+              "edge_liked_by": {
+                "count": 7831
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/f82530f8fe746d582bbcdd2d45672fab/5B169A9C/t51.2885-15/s640x640/sh0.08/e35/c180.0.720.720/24839070_1950926871902303_9052076534793240576_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1662529785523224303",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "หน้าเหมือนสงสัยอะไร something อ่ะ ... #OrnBNK48 #BNK48 #ศึกเมนูพิชิตใจ"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcSfggOnj7v",
+              "edge_media_to_comment": {
+                "count": 147
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512409016,
+              "dimensions": {
+                "height": 702,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/51f7660f9961816098c6c89e7b5bf743/5B1D037A/t51.2885-15/e35/24332383_1748194128526300_554530060879527936_n.jpg",
+              "edge_liked_by": {
+                "count": 7033
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/d615d27329d8aead049a956b6c1f7a9f/5B0D33B3/t51.2885-15/s640x640/sh0.08/e35/c189.0.702.702/24332383_1748194128526300_554530060879527936_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1661726046717531289",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "เมื่อคนแพ้ต้องดูแลตัวเอง ... 😂 \nขอขอบคุณทุกๆท่านที่มาหากันวันนี้นะคะ รู้สึกอิ่มเอมใจมากกกกก ❤️ ขอบคุณที่ให้ความเอ็นดูกับพวกเราชราไลน์ 🙏🏻🙏🏻🙏🏻 และสุดท้ายมะนาวแช่อิ่มอบแห้งอร่อยมาก 😂👌🏻 หรอ ? #OrnBNK48 #BNK48 #WeloveBNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcPowkInNSZ",
+              "edge_media_to_comment": {
+                "count": 118
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512313203,
+              "dimensions": {
+                "height": 718,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/59b2464eb81a9e38737c00e009b8cfef/5B107617/t51.2885-15/e35/24274810_2007934572829575_6204732286647140352_n.jpg",
+              "edge_liked_by": {
+                "count": 6198
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/ca53245465b78136f1b7a083da2fb72c/5B1286F4/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/24274810_2007934572829575_6204732286647140352_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1660549898327355784",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Hello 👋 December 🧚🏻‍♀️🎄 Fill up your heart with great confident and face the big wide world with pride 😊💕✌🏻 #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcLdVWlnPGI",
+              "edge_media_to_comment": {
+                "count": 133
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512172995,
+              "dimensions": {
+                "height": 809,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/dfaa33798e7b92fe0b340799b5f4ba6a/5B02A056/t51.2885-15/e35/24253848_153939005231312_7853178010873102336_n.jpg",
+              "edge_liked_by": {
+                "count": 6945
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/1a37455c300cbc4a8f766d0ef106fcf9/5B0525F1/t51.2885-15/s640x640/sh0.08/e35/c135.0.809.809/24253848_153939005231312_7853178010873102336_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1659851720330476885",
+              "__typename": "GraphVideo",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "ฟู่ววว ~ for you ♥️ #OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcI-lhqHn1V",
+              "edge_media_to_comment": {
+                "count": 208
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512089843,
+              "dimensions": {
+                "height": 937,
+                "width": 750
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/637818db3eb10f4d30a78f89ee7869e4/5A899E04/t51.2885-15/e15/24253954_173768943213139_7797464098836316160_n.jpg",
+              "edge_liked_by": {
+                "count": 6915
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/11a1f72557fe1712180163fa60ab88f4/5A89E228/t51.2885-15/s640x640/e15/c0.90.720.720/24253954_173768943213139_7797464098836316160_n.jpg",
+              "is_video": true,
+              "video_view_count": 24934
+            }
+          },
+          {
+            "node": {
+              "id": "1659532662695403100",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "- Time spent with a cat is never wasted. - #OrnBNK48 #BNK48 #nekostagram"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcH2CoFHh5c",
+              "edge_media_to_comment": {
+                "count": 67
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1512051731,
+              "dimensions": {
+                "height": 1080,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3dee04a3861b28456fc58a19df2cf38e/5B23B351/t51.2885-15/e35/24274259_544978435850808_8053122594066399232_n.jpg",
+              "edge_liked_by": {
+                "count": 4099
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4b1fb41ddc3c81cfece0f785ea3ddf72/5B1D0930/t51.2885-15/s640x640/sh0.08/e35/24274259_544978435850808_8053122594066399232_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1657910863591323323",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "MV ก็ออกแล้ว Photoset ชุดไทยก็ออกบ้าง ใครยังไม่ได้จับจอง สามารถจับจองกันได้ที่ https://shop.bnk48.com/#/products/loi-krathong \nอย่าลืมไปจับจองกันน้าา หญิงพัดมาแล้ว 🌚 #OrnBNK48 #BNK48 #หญิงพัดร้อยเอเคอร์"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "BcCFSV9nza7",
+              "edge_media_to_comment": {
+                "count": 131
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1511858397,
+              "dimensions": {
+                "height": 810,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/490531d246a5485bd94940734c070566/5B17D1D8/t51.2885-15/e35/24175290_186877238532662_5555042384896589824_n.jpg",
+              "edge_liked_by": {
+                "count": 6339
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/121b1e3d03cd059c89fde4d46a259c14/5B2440D2/t51.2885-15/s640x640/sh0.08/e35/c135.0.810.810/24175290_186877238532662_5555042384896589824_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1656659163798757479",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "กลับมาฝึกเบสแล้วค่ะ 😉 บอกเลยว่านี่เป็นเบสตัวแรกในชีวิต ของดิฉัน555 (ผ่อนเองด้วยใกล้หมดและ5555555) เป็นความภาคภูมิใจที่ได้กลับมาเล่นอีกครั้ง coming soon นะจ้ะ บอกเลย อิ้อิ้ 😊🌚 #ให้เดาว่ารุ่นอะไร #เดาได้รับไปเล๊ยยย #บัตรจับเบส #ไม่จับมือนะจับเบส5555555 #OrnBNK48 #BNK48 #Ornaboutthatbass #Bass"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bb9ortsHuBn",
+              "edge_media_to_comment": {
+                "count": 166
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1511709183,
+              "dimensions": {
+                "height": 1352,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/235df4d36613cb58ef6d8053e4549090/5B23B1EC/t51.2885-15/e35/23967597_189498508293056_4643094281039380480_n.jpg",
+              "edge_liked_by": {
+                "count": 5298
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/856672802bf1fbefa93a63f3bf037325/5B1F90EF/t51.2885-15/s640x640/sh0.08/e35/c0.136.1080.1080/23967597_189498508293056_4643094281039380480_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1656517121814801353",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "Happy birthday 🎊🎁 🎂\nP’Izurina , P’Rina or P’Isuzu 😂😍😘 幸せになりますように , \n素敵な年になりますように . ✨\nどうも 有難う 御座います , Thank you for everything ka Izurina Senpai 🙏🏻 Love u jub jub 💕😘 #OrnBNK48 #IzurinaBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bb9IYuyH6vJ",
+              "edge_media_to_comment": {
+                "count": 32
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1511692250,
+              "dimensions": {
+                "height": 718,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/57301bf8aed75b21a9849d7363e36cb1/5B0945F4/t51.2885-15/e35/23966760_496717894038240_6482970580298498048_n.jpg",
+              "edge_liked_by": {
+                "count": 5686
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/a0e921005bcf3b7b9da3319e644ddb2f/5B0DA9B9/t51.2885-15/s640x640/sh0.08/e35/c181.0.718.718/23966760_496717894038240_6482970580298498048_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1656039636148739109",
+              "__typename": "GraphSidecar",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "มีความสุขทุกครั้งที่ได้อยู่บนเวที 😊 ขอขอบคุณ @thisiscatradio นะคะ 🙏🏻 งาน #catexpo4 สนุกมากๆเลยยย 🤗😍 ฝันดีราตรีสวัสดิ์ 💤🍑 #goodnight #OrnBNK48 #BNK48 #ว่างแล้วก็จะมาอัพรูป5555"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bb7b0ZmnNwl",
+              "edge_media_to_comment": {
+                "count": 127
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1511635330,
+              "dimensions": {
+                "height": 1354,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/3becfe3fe8e1a8f58a9aae75b47e9646/5B1EBEB2/t51.2885-15/e35/23825251_149287799029561_2004198891850825728_n.jpg",
+              "edge_liked_by": {
+                "count": 5843
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/b1eeb6abc43aafde547a8d44160e5aac/5B1D27C1/t51.2885-15/s640x640/sh0.08/e35/c0.137.1080.1080/23825251_149287799029561_2004198891850825728_n.jpg",
+              "is_video": false
+            }
+          },
+          {
+            "node": {
+              "id": "1654347526617994112",
+              "__typename": "GraphImage",
+              "edge_media_to_caption": {
+                "edges": [
+                  {
+                    "node": {
+                      "text": "何を探してるの？\n What are you looking for ? 👀 \n#OrnBNK48 #BNK48"
+                    }
+                  }
+                ]
+              },
+              "shortcode": "Bb1bE9zHJOA",
+              "edge_media_to_comment": {
+                "count": 185
+              },
+              "comments_disabled": false,
+              "taken_at_timestamp": 1511433615,
+              "dimensions": {
+                "height": 1350,
+                "width": 1080
+              },
+              "display_url": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/4bfcc6efbba4b976db7a143e4a8416dc/5B01DEA7/t51.2885-15/e35/23823410_132577390849140_6923223905167474688_n.jpg",
+              "edge_liked_by": {
+                "count": 6603
+              },
+              "owner": {
+                "id": "4636727204"
+              },
+              "thumbnail_src": "https://instagram.fbkk1-5.fna.fbcdn.net/vp/6bd28a025ac6ad62076ea1da77030bca/5B0FFC75/t51.2885-15/s640x640/sh0.08/e35/c0.135.1080.1080/23823410_132577390849140_6923223905167474688_n.jpg",
+              "is_video": false
+            }
+          }
+        ]
+      }
+    }
+  },
+  "status": "ok"
+}
